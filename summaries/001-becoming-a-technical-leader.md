@@ -14,7 +14,7 @@ Introduction
 
 I have looked up books about technical management and this one was among the mostly recommended ones (along with Peopleware and Mythical Man Month) to develop and refine skills in technical leadership. Since I have no formal training in technical management, I wanted to learn more and make myself a more valuable member of our tech team. 
 
-This book comes from the Author's course "Technical Leadership in Computer Programming". It's basically a self-paced workshop, written as a book, broken down to 24 chapters. Every chapter covers an aspect of what it means to be a problem-solving leader, usually with several anegdotes, and ends with a number of questions for reader to work through. A large number of excercises and questions are more suitably for a study of the book, not a casual read before bed.
+This book comes from the Author's course "Technical Leadership in Computer Programming". It's basically a self-paced workshop, written as a book, broken down to 24 chapters. Every chapter covers an aspect of what it means to be a problem-solving leader, usually with several anecdotes, and ends with a number of questions for reader to work through. A large number of exercises and questions are more suitably for a study of the book, not a casual read before bed.
 
 The main idea is that _"becoming a leader is not something that happens to you, but something that you do"_, so the focus of the book is working on oneself, using the book as a guide. 
 
@@ -31,7 +31,7 @@ Linear models tend to look at roles (a boss is supposed to behave in such-and-su
 >The organic model says that leadership is the process of creating an environment in which people become empowered. When people are empowered, they are free to see, to hear, to feel, and to comment. They are also free to move about, to act, to ask for what they want, to be creative, and to make choices.
 
 
-Effective leadership looks into each involved's persons strengths and weaknesses instead of relying on a strict reward/threat model. It functions following the MOI model:
+Effective leadership looks into each involved's persons strengths and weaknesses instead of relying on a strict reward/threat model. Proposed alternative is a "MOI" model.
 
 * Motivation - what is it that makes people get involved?
 * Organization - structure enabling that ideas be put in practice
@@ -76,7 +76,7 @@ How to manage the flow of ideas?
 
 How to maintain quality? Like a chef, who tests the meal several time while preparing it, keep coming back to the requirements and measure if the result satisfies the quality requirements. Never compromise on quality, if necessary, change the schedule. Sometimes, take a step back and get a fresh perspective of your problem/solution. Restore morale when an idea collapses by reminding everyone it's a release from a fruitless idea.
 
-The development of leaders is a process of growth and stagnation. More often than not, when you learn something new, you get in a ravine, where your productivity is worse than you've started. But after a while, you soar to a new plateau (think learning a new programming language). The growth is a series of such cycles. Don't be afraid of the ditch, but look forward to the next plateu. 
+The development of leaders is a process of growth and stagnation. More often than not, when you learn something new, you get in a ravine, where your productivity is worse than you've started. But after a while, you soar to a new plateau (think learning a new programming language). The growth is a series of such cycles. Don't be afraid of the ditch, but look forward to the next plateau. 
 
 It's easy to fall into a trap of believing in an appointed leader. 
 
@@ -161,7 +161,7 @@ Part 4 is about organizing teams, with tools and suggestions and part 5 is about
 Conclusion
 ==========
 
-The book was mostly an enjoyable read, but I found the style to be somewhat dry and had to keep myself alert. The numerous real-life anegdotes help to get certain points across and break up the "teaching" tone of the chapters.
+The book was mostly an enjoyable read, but I found the style to be somewhat dry and had to keep myself alert. The numerous real-life anecdotes help to get certain points across and break up the "teaching" tone of the chapters.
 
 I did gloss over some more abstract parts but mostly, I've answered all the questions at the end of each chapter. Since every chapter is self-contained, it seems useful to refer to a specific chapter when dealing with related issues (for example chapters in Part 4 on organization, when I'm tasked with making sure a certain project needs to be done)
 

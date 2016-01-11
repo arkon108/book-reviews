@@ -1,2 +1,2 @@
-# book-reviews
-Book Reviews
+A collection of the book reviews/summaries
+

@@ -102,9 +102,9 @@ Here's how to deal with it:
 2. The respondent says, “No problem!” 
 3. You say, “Oh, that’s terrific! Could you please describe my problem that you’re going to solve?” 
 4.    
-    a. If
+     a. If
  the respondent then describes your problem, even erroneously, it’s not a case of NPS but only a case of Enthusiasm. 
-    b. If the respondent describes a proposed solution to your problem rather than the problem itself, then sadly it’s NPS. The kindest thing you can do for all concerned is smile and walk briskly to the nearest exit.
+     b. If the respondent describes a proposed solution to your problem rather than the problem itself, then sadly it’s NPS. The kindest thing you can do for all concerned is smile and walk briskly to the nearest exit.
 
 3.) **Single Solution Belief**
 
@@ -165,4 +165,4 @@ The book was mostly an enjoyable read, but I found the style to be somewhat dry 
 
 I did gloss over some more abstract parts but mostly, I've answered all the questions at the end of each chapter. Since every chapter is self-contained, it seems useful to refer to a specific chapter when dealing with related issues (for example chapters in Part 4 on organization, when I'm tasked with making sure a certain project needs to be done)
 
-I will definitely re-read the book and do the excercises again after few months. It's a good resource on problem-solving leadership and a valuable reference. Since it's organized as a workshop, the real value I see in continuing to work on myself using it as a guide, and keep coming back to it to see how well or how bad I'm doing. 
+I will definitely re-read the book and do the exercises again after few months. It's a good resource on problem-solving leadership and a valuable reference. Since it's organized as a workshop, the real value I see in continuing to work on myself using it as a guide, and keep coming back to it to see how well or how badly I'm doing. 

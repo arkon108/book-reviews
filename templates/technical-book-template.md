@@ -5,9 +5,14 @@ Book Subtitle
 
 Author's Name, Date Of Publication, ISBN, Number of pages
 
-[Link to a book release](http://amazon.com)
+[Amazon](http://amazon.com)
 
-[Link to a book on Goodreads](http://goodreads.com)
+[Goodreads](http://goodreads.com)
+
+About Author
+------------
+What they are known for? Outstanding achievements that should be mentioned?
+What is their expertise in writing this book?
 
 Introduction
 ============

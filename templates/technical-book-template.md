@@ -36,7 +36,7 @@ Cover most interesting areas of the book. Try to summarize a chapter in a few pa
 For every chapter try to answer
 
 * what was it about?
-* how well does the chapter title describe the overall message of the chapter?  
+* how well does the chapter title describe the overall message of the chapter?
 * was the information clearly presented?
 * were there actionable items (like "do something before continuing to read" or "for next week, do X") or exercises required?
 

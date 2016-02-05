@@ -3,9 +3,9 @@ Soft Skills
 The Software Developer's Life Manual
 -------------
 
-John Z. Sonmez, 2005, ISBN, 470 pages
+John Z. Sonmez, 2005, ISBN 9781617292392, 470 pages
 
-[Manning](http://amazon.com) | [Goodreads](https://www.goodreads.com/book/show/23232941-soft-skills)
+[Manning](https://www.manning.com/books/soft-skills) | [Goodreads](https://www.goodreads.com/book/show/23232941-soft-skills)
 
 About Author
 ------------

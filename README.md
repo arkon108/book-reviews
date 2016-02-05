@@ -1,9 +1,9 @@
 A collection of the book reviews/summaries
 =================================
 
-1. [Becoming a Technical Leader](summaries/001-becoming-a-technical-leader.md]
-2. [How to Stop Sucking and Be Awesome Instead](summaries/002-how-to-stop-sucking-and-be-awesome-instead.md)
-3. 
+1. [Becoming a Technical Leader,  Gerald Weinberg](summaries/001-becoming-a-technical-leader.md)
+2. [How to Stop Sucking and Be Awesome Instead, Jeff Atwood](summaries/002-how-to-stop-sucking-and-be-awesome-instead.md)
+3. [Soft Skills, John Z. Sonmez](summaries/003-soft-skills.md)
 
 To Read
 ------

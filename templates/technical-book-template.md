@@ -71,7 +71,4 @@ Bibliography and Resources
 
 <br>
 <hr>
-<sub><sup><a name="footnote1"></a> <!-- footnote link target -->
-<a href="#introduction">1.</a>     <!-- link back to first parent heading -->
-This is a footnote. 
-</sup></sub>  
+<sub><sup><a name="footnote1"></a><a href="#introduction">1.</a> This is a footnote</sup></sub>  

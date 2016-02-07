@@ -71,6 +71,5 @@ Bibliography and Resources
 
 <br>
 <hr>
-<small class="footnotes">
-  <a name="footnote1"></a><a href="#introduction">1.</a> This is a footnote. 
-</small>
+<small><a name="footnote1"></a><a href="#introduction">1.</a> 
+This is a footnote. </small>

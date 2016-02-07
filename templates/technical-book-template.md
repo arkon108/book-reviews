@@ -16,7 +16,7 @@ What is their expertise in writing this book?
 Introduction
 ============
 
-The reasons why I've read this book. 
+The reasons I why have read the book<sup>[1](#footnote1)</sup>.
 
 State the format of the book. (Teaching? Reference? Methodology? Procedure?)
 
@@ -68,3 +68,9 @@ Bibliography and Resources
 * Don't bother copying entire References/Literature section from the book
 * Link code examples or repositories
 * Blogs, websites, apps
+
+<br>
+<hr>
+<small class="footnotes">
+  <a name="footnote1"></a><a href="#introduction">1.</a> This is a footnote. 
+</small>

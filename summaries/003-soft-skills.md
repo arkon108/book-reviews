@@ -18,9 +18,9 @@ Introduction
 
 The book claims it's dedicated to all developers who strive for continuous self improvement and not satisfied with good enough. _That's me!_ 
 
-The author wanted to write a guide how to be the most successful software developer in life, not just in programming. 
+The author wanted to write a guide how to be the most successful software developer in life, not just in programming. _That's what I aspire to!!_
 
-It also seemed to cover _every_ possible area of life except coding. From career management, writing a blog, creating a product, learning to learn, productivity, finances, real estate, fitness to spirituality. Even though it seemed geared to the developers at the start of their careers, it was interesting to see what there is to learn about soft skills.
+It also seemed to cover _every_ possible area of life except coding. From career management, writing a blog, creating a product, learning to learn, productivity, finances, real estate, fitness to spirituality. Even though it seemed geared to the developers at the start of their careers, I wanted to see what else I could learn.
  
 The book is composed of 7 thematic sections - [Career](#career), [Marketing Yourself](#marketing-yourself), [Learning](#learning), [Productivity](#productivity), [Financial](#financial), [Fitness](#fitness) and [Spirit](#spirit) which have different number of the 71 short chapters there are in the book.
 
@@ -116,28 +116,28 @@ For a chosen area of learning, do steps 1-6 once, and then repeat steps 7-10.
 
 1. Get the big picture<br>_How does this fit in the bigger scheme? What's the 50,000 foot perspective?_
 2. Determine scope<br>_Having a reason for learning helps determine scope. Why learn this?<br>Be practical & specific, instead of "learn Java", you can "Learn enough Java to create a multiplatform console application"<br>Adjust focus on time you have, is it weeks or months?_
-3. Define success_<br>Imagine how success looks like. Know your target. Come up with a clear and concise statement that defines success for your learning endeavor<br>Instead of "Learn basic iOS development" set a goal of "Build a small iOS app that uses few major platform features"_
-4. Find resources_<br>Do your homework, research the topic. Look into books, blog posts, videos, people knowledgeable on the subject, podcasts, source code, example projects, online documentation_
-5. Create a learning plan_<br>Break down your learning to smaller chunks, create milestones. Start with looking at chapters of the books on the topic, and modules in workshops or online courses_
-6. Filter resources_<br>It's important to narrow your resources down to smaller list of the best ones for practical reasons_
+3. Define success<br>_Imagine how success looks like. Know your target. Come up with a clear and concise statement that defines success for your learning endeavor<br>Instead of "Learn basic iOS development" set a goal of "Build a small iOS app that uses few major platform features"_
+4. Find resources<br>_Do your homework, research the topic. Look into books, blog posts, videos, people knowledgeable on the subject, podcasts, source code, example projects, online documentation_
+5. Create a learning plan<br>_Break down your learning to smaller chunks, create milestones. Start with looking at chapters of the books on the topic, and modules in workshops or online courses_
+6. Filter resources<br>_It's important to narrow your resources down to smaller list of the best ones for practical reasons_
 7. Learn enough to get started_<br>Find the quick-start guides, how to make a "hello world", or development environment setup guides. Find enough to be able to play around_
-8. Play around_<br>When just reading a book or watching a video about the subject we can absorb too much information, there's no way to tell what's important<br>Play and experiment on your own. Try features out. Create a small project, write down the questions you don't have the answers for and..._
-9. Learn enough to do something useful_<br>Hopefully by now you're more curious and particular enough to know to choose to learn more in-depth from your resources<br>Go back to play around when you get deeper insights_
-10. Teach_<br>It's a process that will cause you to really dissect and understand the topic you're learning about in your own mind as you organize the information in a way that will make it understandable to other<br>Write an article or create a video, talk to a spouse or a friend, but do take some time to take what you learned from your mind and organize it in a way someone else can understand_
+8. Play around<br>_When just reading a book or watching a video about the subject we can absorb too much information, there's no way to tell what's important<br>Play and experiment on your own. Try features out. Create a small project, write down the questions you don't have the answers for and..._
+9. Learn enough to do something useful<br>_Hopefully by now you're more curious and particular enough to know to choose to learn more in-depth from your resources<br>Go back to play around when you get deeper insights_
+10. Teach<br>_It's a process that will cause you to really dissect and understand the topic you're learning about in your own mind as you organize the information in a way that will make it understandable to other<br>Write an article or create a video, talk to a spouse or a friend, but do take some time to take what you learned from your mind and organize it in a way someone else can understand_
  
-Finding a mentor can greatly accelerate your learning. Don't judge too quickly on possible mentors by their own life. Not every sports coach is in a peak physical condition but that doesn't mean they're bad teachers. 
+**Finding a mentor** can greatly accelerate your learning. Don't judge too quickly on possible mentors by their own life. Not every sports coach is in a peak physical condition but that doesn't mean they're bad teachers. 
 
 You want to find someone who did what you're trying to do or helped other people to do it. It's important to look at results they have to show and how well do you get along with that person. You can find someone among your family or friends, or someone your friend or family knows. Other places to look for are local software [meetups](http://meetup.com) and local entrepreneurial groups.
 
-It's possible to create a virtual mentor, reading biographies of successful people and having imaginary conversations with them. Seriously :) 
+To recruit yourself a mentor, the author suggest you offer free labor. That was the only idea he suggested with "_it's really hard to turn down free labor_", other than being persistent and tenacious. Being a sufficient pain in the butt could work too. 
 
-To recruit yourself a mentor, the author suggest you offer free labor. That was the only idea he suggested with "_it's really hard to turn down free labor_", other than being persistent and tenacious.
+If you can't find a mentor for the purpose of specific learning (Nikola Tesla and Alan Turing are not available, for example), like [Napoleon Hill](#books) - read biographies of great people and have imaginary conversations with them. Seriously 😁
 
-Further down the learning path, we're suggested to take on the apprentice, in the words of the author "_to become Yoda_". Not just we'd be giving back to the community, it can greatly benefit us. Teaching others is an established way of learning (and it's only enough you're one step ahead of the person you're teaching), and it might well be that someone we're coaching today turns out to be helping us few years later. And you grow when you help others grow.
+Further down the learning path, we're suggested to **take on the apprentice**, in the words of the author "_to become Yoda_". Not just we'd be giving back to the community, it can greatly benefit us. Teaching others is an established way of learning (and it's only enough you're one step ahead of the person you're teaching), and it might well be that someone we're coaching today turns out to be helping us few years later. And - **you grow when you help others grow**.
 
 How to find yourself a _tiny grasshopper_, _a young padawan_? Look among people asking for your help and opinion, but look for someone who has a true desire to learn and is willing to work hard to do it, someone who wants your help to accelerate their progress by benefit of your experience.
 
-Teaching to others is essential to becoming an expert at something. Is there anything you've _mastered_ that you've never taught to anyone else? We all teach others naturally. We usually aren't aware we're teaching. It's just sharing knowledge.  
+**Teaching to others** is essential to becoming an expert at something. Is there anything you've _mastered_ that you've never taught to anyone else, at least partially? We all teach others naturally. We usually aren't aware we're teaching - it's just sharing knowledge.  
 
 Teaching takes you from learning something to actually understanding it.
 
@@ -145,7 +145,7 @@ Teaching takes you from learning something to actually understanding it.
 
 **How to teach?** Remember you're trying to help someone else, so it's not about your superiority. Start small (blog, a video, tutorial, a presentation, screencasts, courses)
 
-**Finding gaps in your knowledge** seems like a worthwhile subject. We tend to gloss over our gaps in knowlege and we tend to be too busy to stop and take time to fill them in We end up not really understanding whaat we're doing or do things in an inefficient way to avoid areas where we're weak or feel uncomfortable. Look where you're spending the largest amount of time and any repeated tasks you're doing. Do you know most common keyboard shortcuts for an application you use every day?
+**Finding gaps in your knowledge** seems like a worthwhile subject. We tend to gloss over our gaps in knowlege and we tend to be too busy to stop and take time to fill them in. _We end up not really understanding what we're doing or do things in an inefficient way to avoid areas where we're weak or feel uncomfortable._ Look where you're spending the largest amount of time and any repeated tasks you're doing. Do you know most common keyboard shortcuts for an application you use every day?
 
 A good way to keep track of gaps in your knowledge is to keep a lists of things you need to research or aren't clear about. Keep track of the same items that keep coming up. Don't be embarrassed to ask questions when you don't understand something.
  
@@ -200,6 +200,7 @@ Books
 * ["The Art of War"]
 * The Power of Habit [Random House, 2012] by Charles Duhigg.
 * [_Getting Things Done_](#books)
+* Think and Grow Rich - Napoleon Hill 
 
 Websites
 --------

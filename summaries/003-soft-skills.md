@@ -33,7 +33,7 @@ Summary
 Career
 ------
 
-The book starts with advice on career building and management - about changing the perception from thinking about yourself in terms of the job you to looking at yourself as a business which offers particular services.** How to think like a business** - your image and your reputation are your personal brand, your services and know-how is what you sell. 
+The book starts with advice on career building and management - about changing the perception from thinking about yourself in terms of the job you to looking at yourself as a business which offers particular services.**How to think like a business?** - your image and your reputation are your personal brand, your services and know-how is what you sell. 
 
 **For people looking for a job**, the author suggest for ways they could improve their offering, specialization in particular service or industry. If you're looking for a job, you only really need one client. After thinking about big career goals, they should be broken up into smaller ones, and regularly reviewed.
 
@@ -120,7 +120,7 @@ For a chosen area of learning, do steps 1-6 once, and then repeat steps 7-10.
 4. Find resources<br>_Do your homework, research the topic. Look into books, blog posts, videos, people knowledgeable on the subject, podcasts, source code, example projects, online documentation_
 5. Create a learning plan<br>_Break down your learning to smaller chunks, create milestones. Start with looking at chapters of the books on the topic, and modules in workshops or online courses_
 6. Filter resources<br>_It's important to narrow your resources down to smaller list of the best ones for practical reasons_
-7. Learn enough to get started_<br>Find the quick-start guides, how to make a "hello world", or development environment setup guides. Find enough to be able to play around_
+7. Learn enough to get started<br>_Find the quick-start guides, how to make a "hello world", or development environment setup guides. Find enough to be able to play around_
 8. Play around<br>_When just reading a book or watching a video about the subject we can absorb too much information, there's no way to tell what's important<br>Play and experiment on your own. Try features out. Create a small project, write down the questions you don't have the answers for and..._
 9. Learn enough to do something useful<br>_Hopefully by now you're more curious and particular enough to know to choose to learn more in-depth from your resources<br>Go back to play around when you get deeper insights_
 10. Teach<br>_It's a process that will cause you to really dissect and understand the topic you're learning about in your own mind as you organize the information in a way that will make it understandable to other<br>Write an article or create a video, talk to a spouse or a friend, but do take some time to take what you learned from your mind and organize it in a way someone else can understand_
@@ -254,7 +254,7 @@ Most of the general advice the author lifted from [Robert Kiyosaki](#books) on _
 Fitness
 -------
 
-> The human body is the best picture of the human soul.<br>Ludwig Wittgenstein
+> The human body is the best picture of the human soul.<br>Ludwig Wittgenstein<sup>[15](#footnote15)</sup>
 
 
 Spirit
@@ -318,32 +318,33 @@ Apps
 
 <br>
 <hr>
-<sub><sup><a name="footnote1"></a><a href="#introduction">1.</a> Well, technically - it's about having passive income which exceeds your monthly expenses. See [Financial section](#finacial).</sup></sub>
+##Footnotes
+<a name="footnote1"></a><a href="#introduction">1.</a> Well, technically - it's about having passive income which exceeds your monthly expenses. See [Financial section](#finacial).
 
-<sub><sup><a name="footnote2"></a><a href="#productivity">2.</a> Interestingly, the author doesn't use the terms _the zone_ or [flow](https://en.wikipedia.org/wiki/Flow(psychology).</sup></sub>
+<a name="footnote2"></a><a href="#productivity">2.</a> Interestingly, the author doesn't use the terms _the zone_ or [flow](https://en.wikipedia.org/wiki/Flow(psychology).
 
-<sub><sup><a name="footnote3"></a><a href="#productivity">3.</a> The big idea comes from Getting Things Done - there's separate time for _thinking work_ and _getting things done_, you want to regularly think ahead - when you're in the _getting things done_ mode, you don't want to stop to think is that the best thing you should be doing.</sup></sub>  
+<a name="footnote3"></a><a href="#productivity">3.</a> The big idea comes from Getting Things Done - there should be separate time for _thinking work_ and _getting things done_, you want to regularly think ahead - when you're in the _getting things done_ mode, you don't want to stop to think what's next best thing you should be doing.
 
-<sub><sup><a name="footnote4"></a><a href="#productivity">4.</a>Other external help could be a life coach, a written system of reminders and milestones or a lifestyle app</sup></sub>
+<a name="footnote4"></a><a href="#productivity">4.</a>Other external help could be a life coach, a written system of reminders and milestones or a lifestyle app. Maybe a smartphone, context aware, AI personal assistant app.
 
-<sub><sup><a name="footnote5"></a><a href="#productivity">5.</a> This is another GTD idea - batch your tasks in categories like "@computer", "@store", "@phone", "@email" etc. to be more efficient and minimize the penalty of context switching</sup></sub>  
+<a name="footnote5"></a><a href="#productivity">5.</a> This is another GTD idea - batch your tasks in categories like "@computer", "@store", "@phone", "@email" etc. to be more efficient and minimize the penalty of context switching 
 
-<sub><sup><a name="footnote6"></a><a href="#productivity">6.</a> Well, _dualtasking_, if we're being nitpicky</sup></sub>  
+<a name="footnote6"></a><a href="#productivity">6.</a> Well, _dualtasking_, if we're being nitpicky 
 
-<sub><sup><a name="footnote7"></a><a href="#productivity">7.</a> When the people complained about difficult workouts my _jujutsu_ sensei would say "If this were easy, everybody would be doing it" </sup></sub>  
+<a name="footnote7"></a><a href="#productivity">7.</a> When the people complained about difficult workouts my _jujutsu_ sensei would say "If this were easy, everybody would be doing it"  
 
-<sub><sup><a name="footnote8"></a><a href="#productivity">8.</a> Cue: leaving the house, Routine: check the pockets for keys and wallet, Reward: feeling of completeness<br>Cue: hovering over "Send button" in email client, Routine: re-read the email checking for typos, Reward: knowing I sent the clear message<br>Cue: I see a cat, Routine: I am friendly toward the cat, Reward: the cat lets me pet her </sup></sub>  
+<a name="footnote8"></a><a href="#productivity">8.</a> Cue: leaving the house, Routine: check the pockets for keys and wallet, Reward: feeling of completeness<br>Cue: hovering over "Send button" in email client, Routine: re-read the email checking for typos, Reward: knowing I sent the clear message<br>Cue: I see a cat, Routine: I am friendly toward the cat, Reward: the cat lets me pet her 
 
-<sub><sup><a name="footnote9"></a><a href="#productivity">9.</a> I've recently quit smoking, and since it was quite a habitual thing, when I get the urge to smoke now, or find myself in the situation where I'd usually smoke, I remind myself to breathe deeper, relax and be in the moment, supplementing my meditation time </sup></sub>  
+<a name="footnote9"></a><a href="#productivity">9.</a> I've recently quit smoking, and since it was quite a habitual thing, when I get the urge to smoke now, or find myself in the situation where I'd usually smoke, I remind myself to breathe deeper, relax and be in the moment, supplementing my meditation time
 
-<sub><sup><a name="footnote10"></a><a href="#productivity">10.</a> Apparently it can be as short as 21 days</sup></sub> 
+<a name="footnote10"></a><a href="#productivity">10.</a> Apparently it can be as short as 21 days
 
-<sub><sup><a name="footnote11"></a><a href="#productivity">11.</a> If you _really_ want something you need to be able to dedicate at least 15 minutes daily to getting to your goal</sup></sub> 
+<a name="footnote11"></a><a href="#productivity">11.</a> If you _really_ want something you need to be able to dedicate at least 15 minutes daily to getting to your goal
 
-<sub><sup><a name="footnote12"></a><a href="#productivity">12.</a> Author here again mentions [The War of Art](#books) quoting the part about _resistance_ which rears it's ugly head every time we're trying to elevate ourselves to a higher plane of existence which reminds me of the process of growth and stagnation discussed in [Becoming a Technical Leader](/summaries/001-becoming-a-technical-leader.md#part-1)</sup></sub>
+<a name="footnote12"></a><a href="#productivity">12.</a> Author here again mentions [The War of Art](#books) quoting the part about _resistance_ which rears it's ugly head every time we're trying to elevate ourselves to a higher plane of existence which reminds me of the process of growth and stagnation discussed in [Becoming a Technical Leader](/summaries/001-becoming-a-technical-leader.md#part-1)
 
-<sub><sup><a name="footnote13"></a><a href="#financial">13.</a> US-centric</sup></sub> 
+<a name="footnote13"></a><a href="#financial">13.</a> US-centric 
 
-<sub><sup><a name="footnote14"></a><a href="#financial">14.</a> This was around the time I forgot I'm reading a book for software developers</sup></sub> 
+<a name="footnote14"></a><a href="#financial">14.</a> This was around the time I forgot I'm reading a book for software developers
 
-<sub><sup><a name="footnote15"></a><a href="#financial">15.</a> I wonder if he purposefully avoided "_Mens sana in corpore sano_"</sup></sub> 
+<a name="footnote15"></a><a href="#financial">15.</a> I wonder if he purposefully avoided "_Mens sana in corpore sano_" 

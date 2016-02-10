@@ -33,11 +33,11 @@ Summary
 Career
 ------
 
-The book starts with advice on career building and management - about changing the perception from thinking about yourself in terms of the job you to looking at yourself as a business which offers particular services. How to think like a business - your image and your reputation are your personal brand, your services and know-how is what you sell. 
+The book starts with advice on career building and management - about changing the perception from thinking about yourself in terms of the job you to looking at yourself as a business which offers particular services.** How to think like a business** - your image and your reputation are your personal brand, your services and know-how is what you sell. 
 
-For people looking for a job, the author suggest for ways they could improve their offering, specialization in particular service or industry. If you're looking for a job, you only really need one client. After thinking about big career goals, they should be broken up into smaller ones, and regularly reviewed.
+**For people looking for a job**, the author suggest for ways they could improve their offering, specialization in particular service or industry. If you're looking for a job, you only really need one client. After thinking about big career goals, they should be broken up into smaller ones, and regularly reviewed.
 
-Getting along with people is essential for any work, as even though we talk to machines, we need to listen to people. Author here recommends [_How to Win Friends and Influence People_](#books), and summarizes down to understanding that everyone wants to feel important, rewarding positive behavior works better than criticism and putting yourself in other people's shoes, especially when trying to explain something and avoiding arguments (pick your battles).
+**Getting along with people** is essential for any work, as even though we talk to machines, we need to listen to people. Author here recommends [_How to Win Friends and Influence People_](#books), and summarizes down to understanding that everyone wants to feel important, rewarding positive behavior works better than criticism and putting yourself in other people's shoes, especially when trying to explain something and avoiding arguments (pick your battles).
 
 Few chapters are mostly for somebody who never worked in the industry, dealing with job interviews and employment possibilities, specialization in programming, different opportunities at small, medium and large companies and ins and outs of working for each one.
 
@@ -51,7 +51,7 @@ Three chapters cover quitting a job, freelancing and founding a startup, with no
 
 The chapter on working remotely suggests setting hard hours for work, being realistic about self motivation needed for work when nobody is peeking over your shoulder, and helping ourselves by removing distractions and "doing something for 15 minutes only" which is a hack to get momentum which helps us do more work. Loneliness can be a surprising challenge for some so we could get out, schedule some activities with other people such as programming meetup or anything, really.
 
-Speaking of programming meetups, Chapter #18 has a good advice for a budding programmer - don't get religious about technology. 
+Speaking of programming meetups, Chapter #18 has a good advice for a budding programmer - don't get religious about technology. Stop the (hate) wars. 
 
 
 Marketing yourself
@@ -145,7 +145,7 @@ Teaching takes you from learning something to actually understanding it.
 
 **How to teach?** Remember you're trying to help someone else, so it's not about your superiority. Start small (blog, a video, tutorial, a presentation, screencasts, courses)
 
-**Finding gaps in your knowledge** seems like a worthwhile subject. We tend to gloss over our gaps in knowlege and we tend to be too busy to stop and take time to fill them in. _We end up not really understanding what we're doing or do things in an inefficient way to avoid areas where we're weak or feel uncomfortable._ Look where you're spending the largest amount of time and any repeated tasks you're doing. Do you know most common keyboard shortcuts for an application you use every day?
+**Finding gaps in your knowledge** seems like a worthwhile subject. We tend to gloss over our gaps in knowledge and we tend to be too busy to stop and take time to fill them in. _We end up not really understanding what we're doing or do things in an inefficient way to avoid areas where we're weak or feel uncomfortable._ Look where you're spending the largest amount of time and any repeated tasks you're doing. Do you know most common keyboard shortcuts for an application you use every day?
 
 A good way to keep track of gaps in your knowledge is to keep a lists of things you need to research or aren't clear about. Keep track of the same items that keep coming up. Don't be embarrassed to ask questions when you don't understand something.
  
@@ -154,13 +154,108 @@ Productivity
 
 > Amateurs sit and wait for inspiration, the rest of us just get up and go to work.<br>~ Stephen King, On Writing: A Memoir of the Craft
 
+**Focus** is the most important part of being productive. And focus is the opposite of distraction. Context-switching, which we perform while trying to multitask is very detrimental to our overall performance<sup>[2](#footnote2)</sup>. 
+
+> Without focus, tasks end up getting stretched out over a long period of time.
+
+How to get in the focused state? Start working on something that you estimate will take 15-30 minutes. Remove all distractions, resist the urge to check your email, IM, FB, Twitter, phone, etc. The momentum you build up in the first 5-10 minutes will help you stay focused. 
+
+**The Author's personal productivity plan** is a blend of [Getting Things Done](#books), [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) and Seinfeld's "[Don't break the chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)". He plans his week in advance using a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board). He divides the year to quarters and dedicates each quarter to a big project, plus several smaller ones, and plans ahead on weekly (using the Kanban board) and monthly (using a calendar) basis<sup>[3](#footnote3)</sup>. He plans every day in the morning, by moving the prepared tasks to "today" column on his modified Kanban board - he works on most interesting or most important task first.
+
+The author schedules daily work in 25 minute long "*pomodori*" and estimates to get around 10 *pomodori* a day - each one is a 25 minute long uninterrupted focused work, and not easily achievable. That requires thoughtful dealing with distractions - make it clear to other people there are times you need to focus to get your work done, you can reply to that text or email in 25 minutes. For breaks and vacations he has some _free_ weeks, where he doesn't schedule the time with _pomodoris_.
+
+> If you’re going to adopt this technique, make sure you have a realistic expectation of what you can actually accomplish. Just because you work 40 hours in a week doesn’t mean you can get 80 pomodori done. (If you’re able to achieve that feat, I’d be utterly amazed, and, quite honestly, would fear for your mental health.)
+
+When he started **using quotas**, the author managed to level up his productivity
+
+>I started applying a weekly quota of doing one blog post per week and added quotas for other things I wanted to make sure I got done regularly, like creating YouTube videos and podcasts. I created a quota for everything I did that I needed to do more than once. I quantified exactly how frequently I’d do any repeatable task. It could be once a month, four times a week, or twice a day. If I was going to repeat it, I was going to define how often, and I was going to make a commitment about it. Rain or shine, I was going to do what I committed to. I took these quotas very seriously.
+
+The commitment to quotas is essential, it helps to be realistic and practical when setting ones for yourself - if the quota is too high, don't quit mid-way. Finish the quota for the week and then decrease it. 
+
+* Pick a repeatable task. 
+* Define an interval in which that task must be done and repeated. 
+* Define a quota for how many times the task should be done during a given interval. 
+* Commit. Make a firm commitment to meet your quota. 
+* Adjust. Make your quota higher or lower, but don’t adjust during an interval.
+
+Make it a thing to **be accountable to yourself**. The motivation can be _external_ or _internal_. The author here recommends [Daniel Pink’s book Drive](#books) There's no hard advice here - you need to create rules how you'd like to live your life, especially around areas critical to your success. It can help imagining yourself as a video game character and imagine the life you'd like to lay out for that character. The author suggests that external help like an accountabilibuddy, supporting group, making your actions as public as possible<sup>[4](#footnote4)</sup>.
+
+>It’s important to develop a sense of self-accountability to be productive when no one is looking. You could also call this having character or integrity, because they’re all part of the same idea. Without this sense of accountability to yourself, you’re always dependent on external motivations to get you to perform. You become easily manipulated by a carrot promising a reward or a stick promising...a beating if you fall out of line.
+
+Talking about **multitasking** and how generally bad it is (breaking the flow, cost of context switching, etc), the Author suggests _batching_ instead<sup>[5](#footnote5)</sup>. Interesting argument presented in the chapter is about _true_ multitasking<sup>[6](#footnote6)</sup>; doing two mentally taxing things at once is impossible to do well, but doing a _physically_ engaged and _mentally_ engaged task simultaneously is quite easy - listening to an audiobook while driving, for example, or listening to instrumental music while writing, reading your email while walking on a treadmill, etc. 
+
+**Chapter 42. on burnout** is imho the worst chapter in the book. The Author seems to be confusing burnout with "hitting a wall", so his advice is "just stick with it". Which makes sense when you hit a wall - your product is not taking off, you become disillusioned with your job, you leave your book half written - so you should stick with that and break through the wall<sup>[7](#footnote7)</sup>. But burnout is more like hitting ground after deorbiting, burning out in the atmosphere before exploding upon hitting the ground. Burnout requires a person to step back and take a break, probably get some help - before it makes more damage. Burnout can kill you. Burnout is [Karōshi](https://en.wikipedia.org/wiki/Kar%C5%8Dshi).
+
+**Talking about wasting time** comes down to "Don't watch TV" & tracking your time to identify the bigger time wasters (commonly social media, news sites, unnecessary meetings, cooking, video games, etc). 
+
+**The chapter on routine** reveals the power of little incremental effort. With full time jobs most people have 4-6 free hours in a day, which is most time they can dedicate to routine(s). A list of daily activities is enough to implement, and remember to be flexible enough to accept the unexpected events. 
+
+>Write 1,000 words a day, every day, and in a year you’ll have written four novels. (The average novel is between 60,000 and 80,000 words.)
+
+Following is the **topic of habits** which fits nicely after talking about routines :) Author here mentions [The Power of Habit](#books) and summarizes habits of being 3-part, consisting of
+
+1. cue
+2. routine
+3. reward<sup>[8](#footnote8)</sup>
+
+The key is to **identify bad habits**, and ideally, use them to replace them with good ones (_a twofer!_)<sup>[9](#footnote9)</sup>. To find the bad habits, look into things you do that make you feel guilty, what is it that you want to stop doing, but keep putting off? Start small, find a single habit, figure out it's triggers and you'll be able to break it or use the triggers to install a better routine for your habit. It takes time. To form an entirely new habit, stick with it long enough<sup>[10](#footnote10)</sup><sup>, [11](#footnote11)</sup> and figure out a reward (e.g. 5 min break, playing a game for a limited time) & cue (what triggers the habit? - time it regularly, use reminders or piggyback on another habit).
+
+
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.<br>~ Aristotle
+
+**Chapter 46. "Breaking down things"** describes project planning (breaking a big task in bunch of smaller ones) basically deals with piecemeal approach to the bigger projects, to help against procrastination. 
+>How to eat an elephant?<br>When eating an elephant take one bite at a time.<br>~ Creighton Abrams
+
+**Why is hard work hard?** We tend to think that of work that is likely to benefit us. No matter how smart you work, there's no substitute for hard work<sup>[12](#footnote12)</sup>. Like _Nike_ says - "Just do it!"
+
+>The race is to the driven, not to the swift.<br>~ John Jakes, North and South
+
+**Any action is better than no action.** What prevents us from action is mostly fear. Fear of unknown, fear of failure, fear of not knowing enough, fear of not being up to it. Don't die like the donkey that couldn't decide between two stacks of hay. Pick one and if you're going in the wrong direction, adjust accordingly. 
+
+> Any action is often better than no action, especially if you have been stuck in an unhappy situation for a long time. If it is a mistake, at least you learn something, in which case it’s no longer a mistake. If you remain stuck, you learn nothing.<br>Eckhart Tolle, The Power of Now
+
+### Checklist for taking action
+
+* What specifically is holding me back from taking action?
+* If there is a choice I need to make, what is that choice? What options do I have to choose from?
+* What’s the worst that can result from making a wrong choice?
+* If I choose wrong, can I go back and try another choice? Will the cost of doing so be high?
+* Is there a big difference between the choices? Can I get away with a suboptimal solution that I can take action on right away?
+* Does the problem I’m facing lend itself to self-discoverability? If I start taking some action, will I be able to course-correct until I eventually find the right action to take?
+* What will happen if I don’t take any action? What will the cost be in time, missed opportunity, or money?
+
 
 
 Financial
 ---------
 
+This section comes goes in describing retirement funds<sup>[13](#footnote13)</sup>, negotiating your salary, stocks & options trading, real estate market, and the dangers of being in debt. It's geared towards software developers as likely to earn relatively big salaries. 
+
+Most of this section deals in very specific areas rather superficially, letting the reader know general ins and outs of particular field to start actually learning more on their own, and ends with a chapter about the author retiring at 33 years old.
+
+This last, biographical chapter, gets very TV-salesman-y in which the author figures out that _technically_ retirement means if you have passive income which exceeds your expenses, you are officially retired. 
+
+He started with selling gumball machines, and proceeded to get into real estate business and buys several rental properties which he'll cash out in 20 or 30 years after paying out a loan, and in the mean time covers his expenses by rent charged by the residents.<sup>[14](#footnote14)</sup> 
+
+Most of the general advice the author lifted from [Robert Kiyosaki](#books) on _assets_ vs _liabilities_
+
+> An asset is something that has a higher utility value than what its maintenance cost is. That means that for something to qualify as an asset, it has to be able to provide more dollars of value than it costs to own.<br>A liability, on the other hand, is just the opposite. It’s something that costs more than the value it provides. To keep the liability around, you have to shell out money, but you could never get as much money as you’re shelling out.
+
+| Assets                  | Liabilities               |
+| ----------------------- | ------------------------- |
+| Dividend stocks         | Credit card debt          |
+| Rental real estate      | House (if too big)        |
+| Bonds                   | Car (if too much)         |
+| Music royalty rights    | Monthly services          |
+| Software royalty rights | Equipment that loses value over time|
+
+
+
 Fitness
 -------
+
+> The human body is the best picture of the human soul.<br>Ludwig Wittgenstein
+
 
 Spirit
 ------
@@ -201,6 +296,12 @@ Books
 * The Power of Habit [Random House, 2012] by Charles Duhigg.
 * [_Getting Things Done_](#books)
 * Think and Grow Rich - Napoleon Hill 
+* Kanban in Action by Marcus Hammarberg and Joakim Sundén
+* Daniel Pink’s book Drive (Riverhead Hardcover, 2009).
+* Robert Kiyosaki, author of Rich Dad, Poor Dad
+
+
+
 
 Websites
 --------
@@ -217,4 +318,32 @@ Apps
 
 <br>
 <hr>
-<sub><sup><a name="footnote1"></a><a href="#introduction">1.</a> Well, technically - it's about having passive income which exceeds your monthly expenses. See [Financial section](#finacial).</sup></sub>  
+<sub><sup><a name="footnote1"></a><a href="#introduction">1.</a> Well, technically - it's about having passive income which exceeds your monthly expenses. See [Financial section](#finacial).</sup></sub>
+
+<sub><sup><a name="footnote2"></a><a href="#productivity">2.</a> Interestingly, the author doesn't use the terms _the zone_ or [flow](https://en.wikipedia.org/wiki/Flow(psychology).</sup></sub>
+
+<sub><sup><a name="footnote3"></a><a href="#productivity">3.</a> The big idea comes from Getting Things Done - there's separate time for _thinking work_ and _getting things done_, you want to regularly think ahead - when you're in the _getting things done_ mode, you don't want to stop to think is that the best thing you should be doing.</sup></sub>  
+
+<sub><sup><a name="footnote4"></a><a href="#productivity">4.</a>Other external help could be a life coach, a written system of reminders and milestones or a lifestyle app</sup></sub>
+
+<sub><sup><a name="footnote5"></a><a href="#productivity">5.</a> This is another GTD idea - batch your tasks in categories like "@computer", "@store", "@phone", "@email" etc. to be more efficient and minimize the penalty of context switching</sup></sub>  
+
+<sub><sup><a name="footnote6"></a><a href="#productivity">6.</a> Well, _dualtasking_, if we're being nitpicky</sup></sub>  
+
+<sub><sup><a name="footnote7"></a><a href="#productivity">7.</a> When the people complained about difficult workouts my _jujutsu_ sensei would say "If this were easy, everybody would be doing it" </sup></sub>  
+
+<sub><sup><a name="footnote8"></a><a href="#productivity">8.</a> Cue: leaving the house, Routine: check the pockets for keys and wallet, Reward: feeling of completeness<br>Cue: hovering over "Send button" in email client, Routine: re-read the email checking for typos, Reward: knowing I sent the clear message<br>Cue: I see a cat, Routine: I am friendly toward the cat, Reward: the cat lets me pet her </sup></sub>  
+
+<sub><sup><a name="footnote9"></a><a href="#productivity">9.</a> I've recently quit smoking, and since it was quite a habitual thing, when I get the urge to smoke now, or find myself in the situation where I'd usually smoke, I remind myself to breathe deeper, relax and be in the moment, supplementing my meditation time </sup></sub>  
+
+<sub><sup><a name="footnote10"></a><a href="#productivity">10.</a> Apparently it can be as short as 21 days</sup></sub> 
+
+<sub><sup><a name="footnote11"></a><a href="#productivity">11.</a> If you _really_ want something you need to be able to dedicate at least 15 minutes daily to getting to your goal</sup></sub> 
+
+<sub><sup><a name="footnote12"></a><a href="#productivity">12.</a> Author here again mentions [The War of Art](#books) quoting the part about _resistance_ which rears it's ugly head every time we're trying to elevate ourselves to a higher plane of existence which reminds me of the process of growth and stagnation discussed in [Becoming a Technical Leader](/summaries/001-becoming-a-technical-leader.md#part-1)</sup></sub>
+
+<sub><sup><a name="footnote13"></a><a href="#financial">13.</a> US-centric</sup></sub> 
+
+<sub><sup><a name="footnote14"></a><a href="#financial">14.</a> This was around the time I forgot I'm reading a book for software developers</sup></sub> 
+
+<sub><sup><a name="footnote15"></a><a href="#financial">15.</a> I wonder if he purposefully avoided "_Mens sana in corpore sano_"</sup></sub> 

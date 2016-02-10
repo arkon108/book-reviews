@@ -319,32 +319,32 @@ Apps
 <br>
 <hr>
 ##Footnotes
-<a name="footnote1"></a><a href="#introduction">1.</a> Well, technically - it's about having passive income which exceeds your monthly expenses. See [Financial section](#finacial).
+<a name="footnote1"></a>[1.](#introduction) Well, technically - it's about having passive income which exceeds your monthly expenses. See [Financial section](#finacial).
 
-<a name="footnote2"></a><a href="#productivity">2.</a> Interestingly, the author doesn't use the terms _the zone_ or [flow](https://en.wikipedia.org/wiki/Flow(psychology).
+<a name="footnote2"></a>[2.](#productivity) Interestingly, the author doesn't use the terms _the zone_ or [flow](https://en.wikipedia.org/wiki/Flow(psychology).
 
-<a name="footnote3"></a><a href="#productivity">3.</a> The big idea comes from Getting Things Done - there should be separate time for _thinking work_ and _getting things done_, you want to regularly think ahead - when you're in the _getting things done_ mode, you don't want to stop to think what's next best thing you should be doing.
+<a name="footnote3"></a>[3.](#productivity) The big idea comes from Getting Things Done - there should be separate time for _thinking work_ and _getting things done_, you want to regularly think ahead - when you're in the _getting things done_ mode, you don't want to stop to think what's next best thing you should be doing.
 
-<a name="footnote4"></a><a href="#productivity">4.</a>Other external help could be a life coach, a written system of reminders and milestones or a lifestyle app. Maybe a smartphone, context aware, AI personal assistant app.
+<a name="footnote4"></a>[4.](#productivity) Other external help could be a life coach, a written system of reminders and milestones or a lifestyle app. Maybe a smartphone, context aware, AI personal assistant app.
 
-<a name="footnote5"></a><a href="#productivity">5.</a> This is another GTD idea - batch your tasks in categories like "@computer", "@store", "@phone", "@email" etc. to be more efficient and minimize the penalty of context switching 
+<a name="footnote5"></a>[5.](#productivity) This is another GTD idea - batch your tasks in categories like "@computer", "@store", "@phone", "@email" etc. to be more efficient and minimize the penalty of context switching 
 
-<a name="footnote6"></a><a href="#productivity">6.</a> Well, _dualtasking_, if we're being nitpicky 
+<a name="footnote6"></a>[6.](#productivity) Well, _dualtasking_, if we're being nitpicky 
 
-<a name="footnote7"></a><a href="#productivity">7.</a> When the people complained about difficult workouts my _jujutsu_ sensei would say "If this were easy, everybody would be doing it"  
+<a name="footnote7"></a>[7.](#productivity) When the people complained about difficult workouts my _jujutsu_ sensei would say "If this were easy, everybody would be doing it"  
 
-<a name="footnote8"></a><a href="#productivity">8.</a> Cue: leaving the house, Routine: check the pockets for keys and wallet, Reward: feeling of completeness<br>Cue: hovering over "Send button" in email client, Routine: re-read the email checking for typos, Reward: knowing I sent the clear message<br>Cue: I see a cat, Routine: I am friendly toward the cat, Reward: the cat lets me pet her 
+<a name="footnote8"></a>[8.](#productivity) Cue: leaving the house, Routine: check the pockets for keys and wallet, Reward: feeling of completeness<br>Cue: hovering over "Send button" in email client, Routine: re-read the email checking for typos, Reward: knowing I sent the clear message<br>Cue: I see a cat, Routine: I am friendly toward the cat, Reward: the cat lets me pet her 
 
-<a name="footnote9"></a><a href="#productivity">9.</a> I've recently quit smoking, and since it was quite a habitual thing, when I get the urge to smoke now, or find myself in the situation where I'd usually smoke, I remind myself to breathe deeper, relax and be in the moment, supplementing my meditation time
+<a name="footnote9"></a>[9.](#productivity) I've recently quit smoking, and since it was quite a habitual thing, when I get the urge to smoke now, or find myself in the situation where I'd usually smoke, I remind myself to breathe deeper, relax and be in the moment, supplementing my meditation time
 
-<a name="footnote10"></a><a href="#productivity">10.</a> Apparently it can be as short as 21 days
+<a name="footnote10"></a>[10.](#productivity) Apparently it can be as short as 21 days
 
-<a name="footnote11"></a><a href="#productivity">11.</a> If you _really_ want something you need to be able to dedicate at least 15 minutes daily to getting to your goal
+<a name="footnote11"></a>[11.](#productivity) If you _really_ want something you need to be able to dedicate at least 15 minutes daily to getting to your goal
 
-<a name="footnote12"></a><a href="#productivity">12.</a> Author here again mentions [The War of Art](#books) quoting the part about _resistance_ which rears it's ugly head every time we're trying to elevate ourselves to a higher plane of existence which reminds me of the process of growth and stagnation discussed in [Becoming a Technical Leader](/summaries/001-becoming-a-technical-leader.md#part-1)
+<a name="footnote12"></a>[12.](#productivity) Author here again mentions [The War of Art](#books) quoting the part about _resistance_ which rears it's ugly head every time we're trying to elevate ourselves to a higher plane of existence which reminds me of the process of growth and stagnation discussed in [Becoming a Technical Leader](/summaries/001-becoming-a-technical-leader.md#part-1)
 
-<a name="footnote13"></a><a href="#financial">13.</a> US-centric 
+<a name="footnote13"></a>[13.](#financial) US-centric 
 
-<a name="footnote14"></a><a href="#financial">14.</a> This was around the time I forgot I'm reading a book for software developers
+<a name="footnote14"></a>[14.](#financial) This was around the time I forgot I'm reading a book for software developers
 
-<a name="footnote15"></a><a href="#financial">15.</a> I wonder if he purposefully avoided "_Mens sana in corpore sano_" 
+<a name="footnote15"></a>[15.](#financial)</a> I wonder if he purposefully avoided "_Mens sana in corpore sano_" 

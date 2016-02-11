@@ -172,14 +172,14 @@ Productivity
 > Amateurs sit and wait for inspiration, the rest of us just get up and go to work.<br>~ Stephen King, On Writing: A Memoir of the Craft
 
 ### Focus
-Being focused is the most important part of being productive. And focus is the opposite of being distracted. Context-switching, which we perform while trying to multitask is very detrimental to our overall performance<sup>[2](#footnote2)</sup>. 
+Being focused is the most important part of being productive. And focus is the opposite of being distracted. Context-switching, which we perform while trying to multitask is very detrimental to our overall performance<sup>[2](#footnote2)</sup><a name="f2"></a>. 
 
 > Without focus, tasks end up getting stretched out over a long period of time.
 
 How to get in the focused state? Start working on something that you estimate will take 15-30 minutes. Remove all distractions, resist the urge to check your email, IM, FB, Twitter, phone, etc. The momentum you build up in the first 5-10 minutes will help you stay focused. 
 
 ### The Author's personal productivity plan 
-It's a blend of [Getting Things Done](#books), [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) and Seinfeld's "[Don't break the chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)". He plans his week in advance using a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board). He divides the year to quarters and dedicates each quarter to a big project, plus several smaller ones, and plans ahead on weekly (using the Kanban board) and monthly (using a calendar) basis<sup>[3](#footnote3)</sup>. He plans every day in the morning, by moving the prepared tasks to "today" column on his modified Kanban board - he works on most interesting or most important task first.
+It's a blend of [Getting Things Done](#books), [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) and Seinfeld's "[Don't break the chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)". He plans his week in advance using a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board). He divides the year to quarters and dedicates each quarter to a big project, plus several smaller ones, and plans ahead on weekly (using the Kanban board) and monthly (using a calendar) basis<sup>[3](#footnote3)</sup><a name="f3"></a>. He plans every day in the morning, by moving the prepared tasks to "today" column on his modified Kanban board - he works on most interesting or most important task first.
 
 The author schedules daily work in 25 minute long "*pomodori*" and estimates to get around 10 *pomodori* a day - each one is a 25 minute long uninterrupted focused work, and not easily achievable. That requires thoughtful dealing with distractions - make it clear to the other people that there are times you need to focus to get your work done. You'll get to check your phone or email when the 25 minutes are up. 
 
@@ -201,15 +201,15 @@ The commitment to quotas is essential, it helps to be realistic and practical wh
 * Adjust. Make your quota higher or lower, but don’t adjust during an interval.
 
 ### Being self-accountable
-Make it a thing to be accountable to yourself. The motivation can be _external_ or _internal_. The author recommends [Daniel Pink’s book Drive](#books) There's no hard advice here - you need to create rules how you'd like to live your life, especially around areas critical to your success. It can help imagining yourself as a video game character and imagine the life you'd like to lay out for that character. The author suggests that external help like an accountabilibuddy, supporting group and making your actions as public as possible<sup>[4](#footnote4)</sup>.
+Make it a thing to be accountable to yourself. The motivation can be _external_ or _internal_. The author recommends [Daniel Pink’s book Drive](#books) There's no hard advice here - you need to create rules how you'd like to live your life, especially around areas critical to your success. It can help imagining yourself as a video game character and imagine the life you'd like to lay out for that character. The author suggests that external help like an accountabilibuddy, supporting group and making your actions as public as possible<sup>[4](#footnote4)</sup><a name="f4"></a>.
 
 >It’s important to develop a sense of self-accountability to be productive when no one is looking. You could also call this having character or integrity, because they’re all part of the same idea. Without this sense of accountability to yourself, you’re always dependent on external motivations to get you to perform. You become easily manipulated by a carrot promising a reward or a stick promising...a beating if you fall out of line.
 
 ### Multitasking
-Multi-tasking and the resulting work fragmenation result in breaking of the flow and lost productivity because of constant context switching. The author suggests _batching_ instead<sup>[5](#footnote5)</sup>. Interesting argument presented in the chapter is about _true_ multitasking<sup>[6](#footnote6)</sup>; doing two mentally taxing things at once is impossible to do well, but doing a _physically_ engaged and _mentally_ engaged task simultaneously is quite easy - listening to an audiobook while driving, for example, or listening to instrumental music while writing, reading your email while walking on a treadmill, etc. 
+Multi-tasking and the resulting work fragmenation result in breaking of the flow and lost productivity because of constant context switching. The author suggests _batching_ instead<sup>[5](#footnote5)</sup><a name="f5"></a>. Interesting argument presented in the chapter is about _true_ multitasking<sup>[6](#footnote6)</sup><a name="f6"></a>; doing two mentally taxing things at once is impossible to do well, but doing a _physically_ engaged and _mentally_ engaged task simultaneously is quite easy - listening to an audiobook while driving, for example, or listening to instrumental music while writing, reading your email while walking on a treadmill, etc. 
 
 ### Burnout
-This is imho the worst chapter in the book. The Author seems to be confusing burnout with "hitting a wall", so his advice is "just stick with it". Which makes sense when you hit a wall - your product is not taking off, you become disillusioned with your job, you leave your book half written - so you should stick with that and break through the wall<sup>[7](#footnote7)</sup>. But burnout is more like hitting ground after deorbiting, burning out in the atmosphere before exploding and leaving a trail of destruction. Burnout requires a person to step back and take a break, probably get some help - before it makes more damage. Burnout can kill you. Burnout is [Karōshi](https://en.wikipedia.org/wiki/Kar%C5%8Dshi).
+This is imho the worst chapter in the book. The Author seems to be confusing burnout with "hitting a wall", so his advice is "just stick with it". Which makes sense when you hit a wall - your product is not taking off, you become disillusioned with your job, you leave your book half written - so you should stick with that and break through the wall<sup>[7](#footnote7)</sup><a name="f7"></a>. But burnout is more like hitting ground after deorbiting, burning out in the atmosphere before exploding and leaving a trail of destruction. Burnout requires a person to step back and take a break, probably get some help - before it makes more damage. Burnout can kill you. Burnout is [Karōshi](https://en.wikipedia.org/wiki/Kar%C5%8Dshi).
 ### Time wasters
 It comes down to "Don't watch TV" and tracking your time to identify the bigger time wasters (commonly social media, news sites, unnecessary meetings, cooking, video games, etc). 
 
@@ -223,11 +223,11 @@ Author here mentions [The Power of Habit](#books) and summarizes habits of being
 
 1. cue
 2. routine
-3. reward<sup>[8](#footnote8)</sup>
+3. reward<sup>[8](#footnote8)</sup><a name="f8"></a>
 
-The key is to **identify bad habits**, and ideally, use them to replace them with good ones (_a twofer!_)<sup>[9](#footnote9)</sup>. To find the bad habits, look into things you do that make you feel guilty, what is it that you want to stop doing, but keep putting off? Start small, find a single habit, figure out it's triggers and you'll be able to break it or use the triggers to install a better routine for your habit. It takes time. 
+The key is to **identify bad habits**, and ideally, use them to replace them with good ones (_a twofer!_)<sup>[9](#footnote9)</sup><a name="f9"></a>. To find the bad habits, look into things you do that make you feel guilty, what is it that you want to stop doing, but keep putting off? Start small, find a single habit, figure out it's triggers and you'll be able to break it or use the triggers to install a better routine for your habit. It takes time. 
 
-To form an entirely new habit, stick with it long enough<sup>[10](#footnote10)</sup><sup>, [11](#footnote11)</sup> and figure out a reward (e.g. 5 min break, playing a game for a limited time, working on most interesting task next). Lastly - find or create the cue that triggers the habit. We can put a reminder in the calendar or even better - piggyback on another habit. For example, if we habitually check our mail every morning, we could try to remind ourselves to workout after that (if we're trying to make a habit of working out). 
+To form an entirely new habit, stick with it long enough<sup>[10](#footnote10)</sup><sup>, [11](#footnote11)</sup><a name="f10"></a><a name="f11"></a> and figure out a reward (e.g. 5 min break, playing a game for a limited time, working on most interesting task next). Lastly - find or create the cue that triggers the habit. We can put a reminder in the calendar or even better - piggyback on another habit. For example, if we habitually check our mail every morning, we could try to remind ourselves to workout after that (if we're trying to make a habit of working out). 
 
 > We are what we repeatedly do. Excellence, then, is not an act, but a habit.<br>~ Aristotle
 
@@ -236,7 +236,7 @@ The chapter on breaking down things doesn't say anything about wrecking furnitur
 >How to eat an elephant?<br>When eating an elephant take one bite at a time.<br>~ Creighton Abrams
 
 ### Why is hard work hard?
-We tend to think that of work that is likely to benefit us. No matter how smart we can work, in the end, there's no substitute for hard work<sup>[12](#footnote12)</sup>. Like _Nike_ says - "Just do it!"
+We tend to think that of work that is likely to benefit us. No matter how smart we can work, in the end, there's no substitute for hard work<sup>[12](#footnote12)</sup><a name="f12"></a>. Like _Nike_ says - "Just do it!"
 
 >The race is to the driven, not to the swift.<br>~ John Jakes, North and South
 
@@ -260,13 +260,13 @@ What prevents us from action is mostly fear. Fear of unknown, fear of failure, f
 Financial
 ---------
 
-This section comes goes in describing retirement funds<sup>[13](#footnote13)</sup>, negotiating your salary, stocks and options trading, real estate market, and the dangers of being in debt. It's geared towards software developers since they are more likely to earn big salaries. 
+This section comes goes in describing retirement funds<sup>[13](#footnote13)</sup><a name="f13"></a>, negotiating your salary, stocks and options trading, real estate market, and the dangers of being in debt. It's geared towards software developers since they are more likely to earn big salaries. 
 
 Most of this section deals in very specific areas rather superficially, letting the reader know general ins and outs of particular field to start actually learning more on their own, and ends with a chapter about the author retiring at 33 years old.
 
 This last, biographical chapter, gets very TV-salesman-y in which the author figures out that _technically_ retirement means - if you have passive income which exceeds your expenses, you are officially retired! 
 
-He started with selling gumball machines. Afterwards he proceeded to get into real estate business and ended up buying several rental properties which can cash out in 20 or 30 years. In the mean time his expenses are covered by rent.<sup>[14](#footnote14)</sup> 
+He started with selling gumball machines. Afterwards he proceeded to get into real estate business and ended up buying several rental properties which can cash out in 20 or 30 years. In the mean time his expenses are covered by rent.<sup>[14](#footnote14)</sup><a name="f14"></a> 
 
 Most of the general advice the author lifted from [Robert Kiyosaki](#books) on _assets_ vs _liabilities_
 
@@ -285,7 +285,7 @@ Most of the general advice the author lifted from [Robert Kiyosaki](#books) on _
 Fitness
 -------
 
-> The human body is the best picture of the human soul.<br>Ludwig Wittgenstein<sup>[15](#footnote15)</sup>
+> The human body is the best picture of the human soul.<br>Ludwig Wittgenstein<sup>[15](#footnote15)</sup><a name="f15"></a>
 
 Programmers can look handsome and beautiful! Being in a good physical condition also boosts your confidence as you feel better when you look better. You also think better and provide more oxygen to your brain and body. Most importantly, having an active lifestyle is very important for people with sedentary lifestyles such as software developer's.
 
@@ -306,7 +306,7 @@ A good way to further gamify and engage is using pedometers or dedicated lifesty
 Spirit
 ------
 
-This section goes to talk about spirit (which author mostly confuses with mind). We are to strengthen our spirit if we're ever to "conquer the greatest enemy you will ever face - yourself"<sup>[16](#footnote16)</sup>
+This section goes to talk about spirit (which author mostly confuses with mind). We are to strengthen our spirit if we're ever to "conquer the greatest enemy you will ever face - yourself"<sup>[16](#footnote16)</sup><a name="f16"></a>
 
 Everything starts in the mind. The idea can be to move the glass of water closer to your face or build an amazing product, the physical reality always follows what started as a _mere idea_. 
 
@@ -320,7 +320,7 @@ Author retells a (different version than here) story about the old man and his s
 > An old farmer lived with his son in a village. One day, their only horse broke through the fence and ran away. All the neighbors; hearing of the news said "Oh how unfortunate!"<br>The old farmer just said "We'll see"<br>A week later, the horse returned with a herd of wild horsed which the farmer and son quickly corralled. All the neighbors were now nodding their heads saying "Oh, what good fortune!".<br> The old farmer replied "We'll see"<br> In a few days, while trying to tame one of the wild horses, the son got thrown from the horse and badly broken his leg. The neighbors, worryingly shook their heads "Oh such bad fortune!"<br>Old farmer told them "We'll see". Not very soon after that a war broke out and King's captains came to the village to round up young men of fighting age. Seeing old farmer's son delirious with fever, the captain left him be. As the son started getting better, the neighbors gladly agreed "How very fortunate!"
 <br>The old farmer said only "We'll see"
 
-Nothing in itself is good or bad, your attitude in reaction to it is everything. Play more to reawaken and cultivate your natural playful curiosity. Keep having an open mind - you only stop growing when you stop asking questions. Try to capture your thoughts and become more aware of them. Meditation, introspection and keeping a journal can help identify and stop negative thinking<sup>[17](#footnote17)</sup>. 
+Nothing in itself is good or bad, your attitude in reaction to it is everything. Play more to reawaken and cultivate your natural playful curiosity. Keep having an open mind - you only stop growing when you stop asking questions. Try to capture your thoughts and become more aware of them. Meditation, introspection and keeping a journal can help identify and stop negative thinking<sup>[17](#footnote17)</sup><a name="f17"></a>. 
 
 
 ### Affirmations
@@ -332,7 +332,7 @@ The author affirms the power of positive affirmations as a way to change otherwi
 
 ### Love
 
-> Computers can't hold your hand<sup>[18](#footnote18)</sup>
+> Computers can't hold your hand<sup>[18](#footnote18)</sup><a name="f18"></a>
 
 This rambling chapter mostly tells the reader to not come off as desperate and learn about _the game_ and keep in mind it's a numbers game. Slightly cringe inducing chapter. 
 
@@ -407,38 +407,38 @@ Apps
 <br>
 <hr>
 ##Footnotes
-<a name="footnote1"></a>[1.](#introduction) Well, technically - it's about having passive income which exceeds your monthly expenses. See [Financial section](#financial).
+<a name="footnote1"></a>[1.](#f1) Well, technically - it's about having passive income which exceeds your monthly expenses. See [Financial section](#financial).
 
-<a name="footnote2"></a>[2.](#productivity) Interestingly, the author doesn't use the terms _the zone_ or [flow](https://en.wikipedia.org/wiki/Flow(psychology).
+<a name="footnote2"></a>[2.](#f2) Interestingly, the author doesn't use the terms _the zone_ or [flow](https://en.wikipedia.org/wiki/Flow(psychology).
 
-<a name="footnote3"></a>[3.](#productivity) The big idea comes from Getting Things Done - there should be separate time for _thinking work_ and _getting things done_, you want to regularly think ahead - when you're in the _getting things done_ mode, you don't want to stop to think what's next best thing you should be doing.
+<a name="footnote3"></a>[3.](#f3) The big idea comes from Getting Things Done - there should be separate time for _thinking work_ and _getting things done_, you want to regularly think ahead - when you're in the _getting things done_ mode, you don't want to stop to think what's next best thing you should be doing.
 
-<a name="footnote4"></a>[4.](#productivity) Other external help could be a life coach, a written system of reminders and milestones or a lifestyle app. Maybe a smartphone, context aware, AI personal assistant app.
+<a name="footnote4"></a>[4.](#f4) Other external help could be a life coach, a written system of reminders and milestones or a lifestyle app. Maybe a smartphone, context aware, AI personal assistant app.
 
-<a name="footnote5"></a>[5.](#productivity) This is another GTD idea - batch your tasks in categories like "@computer", "@store", "@phone", "@email" etc. to be more efficient and minimize the penalty of context switching 
+<a name="footnote5"></a>[5.](#f5) This is another GTD idea - batch your tasks in categories like "@computer", "@store", "@phone", "@email" etc. to be more efficient and minimize the penalty of context switching 
 
-<a name="footnote6"></a>[6.](#productivity) Well, _dualtasking_, if we're being nit-picky 
+<a name="footnote6"></a>[6.](#f6) Well, _dualtasking_, if we're being nit-picky 
 
-<a name="footnote7"></a>[7.](#productivity) When the people complained about difficult workouts my _jujutsu_ sensei would say "If this were easy, everybody would be doing it"  
+<a name="footnote7"></a>[7.](#f7) When the people complained about difficult workouts my _jujutsu_ sensei would say "If this were easy, everybody would be doing it"  
 
-<a name="footnote8"></a>[8.](#productivity) Cue: leaving the house, Routine: check the pockets for keys and wallet, Reward: feeling of completeness<br>Cue: hovering over "Send button" in email client, Routine: re-read the email checking for typos, Reward: knowing I sent the clear message<br>Cue: I see a cat, Routine: I am friendly toward the cat, Reward: the cat lets me pet her 
+<a name="footnote8"></a>[8.](#f8) Cue: leaving the house, Routine: check the pockets for keys and wallet, Reward: feeling of completeness<br>Cue: hovering over "Send button" in email client, Routine: re-read the email checking for typos, Reward: knowing I sent the clear message<br>Cue: I see a cat, Routine: I am friendly toward the cat, Reward: the cat lets me pet her 
 
-<a name="footnote9"></a>[9.](#productivity) I've recently quit smoking, and since it was quite a habitual thing, when I get the urge to smoke now, or find myself in the situation where I'd usually smoke, I remind myself to breathe deeper, relax and be in the moment, supplementing my meditation time
+<a name="footnote9"></a>[9.](#f9) I've recently quit smoking, and since it was quite a habitual thing, when I get the urge to smoke now, or find myself in the situation where I'd usually smoke, I remind myself to breathe deeper, relax and be in the moment, supplementing my meditation time
 
-<a name="footnote10"></a>[10.](#productivity) Apparently it can be as short as 21 days
+<a name="footnote10"></a>[10.](#f10) Apparently it can be as short as 21 days
 
-<a name="footnote11"></a>[11.](#productivity) If you _really_ want something you need to be able to dedicate at least 15 minutes daily to getting to your goal
+<a name="footnote11"></a>[11.](#f11) If you _really_ want something you need to be able to dedicate at least 15 minutes daily to getting to your goal
 
-<a name="footnote12"></a>[12.](#productivity) Author here again mentions [The War of Art](#books) quoting the part about _resistance_ which rears it's ugly head every time we're trying to elevate ourselves to a higher plane of existence which reminds me of the process of growth and stagnation discussed in [Becoming a Technical Leader](/summaries/001-becoming-a-technical-leader.md#part-1)
+<a name="footnote12"></a>[12.](#f12) Author here again mentions [The War of Art](#books) quoting the part about _resistance_ which rears it's ugly head every time we're trying to elevate ourselves to a higher plane of existence which reminds me of the process of growth and stagnation discussed in [Becoming a Technical Leader](/summaries/001-becoming-a-technical-leader.md#part-1)
 
-<a name="footnote13"></a>[13.](#financial) US-centric 
+<a name="footnote13"></a>[13.](#f13) US-centric 
 
-<a name="footnote14"></a>[14.](#financial) This was around the time I forgot I'm reading a book for software developers
+<a name="footnote14"></a>[14.](#f14) This was around the time I forgot I'm reading a book for software developers
 
-<a name="footnote15"></a>[15.](#financial)</a> I wonder if he purposefully avoided "_Mens sana in corpore sano_" 
+<a name="footnote15"></a>[15.](#f15)</a> I wonder if he purposefully avoided "_Mens sana in corpore sano_" 
 
-<a name="footnote16"></a>[16.](#spirit)</a> Sounds deep but I don't think it makes any sense
+<a name="footnote16"></a>[16.](#f16)</a> Sounds deep but I don't think it makes any sense
 
-<a name="footnote17"></a>[17.](#spirit)</a> A mental habit I picked up long time ago at a meditation workshop was "_Cancel, cancel!_".<br> Any time an unwanted or negative thought tried to intrude, I'd tell it to "Cancel, cancel!" so it would stop pestering me. Sometimes you still might need to tell it a few times and then ignore it completely by actively focusing on something else. 
+<a name="footnote17"></a>[17.](#f17)</a> A mental habit I picked up long time ago at a meditation workshop was "_Cancel, cancel!_".<br> Any time an unwanted or negative thought tried to intrude, I'd tell it to "Cancel, cancel!" so it would stop pestering me. Sometimes you still might need to tell it a few times and then ignore it completely by actively focusing on something else. 
 
-<a name="footnote18"></a>[18.](#spirit)</a> Yet
+<a name="footnote18"></a>[18.](#f18)</a> Yet

@@ -435,10 +435,10 @@ Apps
 
 <a name="footnote14"></a>[14.](#f14) This was around the time I forgot I'm reading a book for software developers
 
-<a name="footnote15"></a>[15.](#f15)</a> I wonder if he purposefully avoided "_Mens sana in corpore sano_" 
+<a name="footnote15"></a>[15.](#f15) I wonder if he purposefully avoided "_Mens sana in corpore sano_" 
 
-<a name="footnote16"></a>[16.](#f16)</a> Sounds deep but I don't think it makes any sense
+<a name="footnote16"></a>[16.](#f16) Sounds deep but I don't think it makes any sense
 
-<a name="footnote17"></a>[17.](#f17)</a> A mental habit I picked up long time ago at a meditation workshop was "_Cancel, cancel!_".<br> Any time an unwanted or negative thought tried to intrude, I'd tell it to "Cancel, cancel!" so it would stop pestering me. Sometimes you still might need to tell it a few times and then ignore it completely by actively focusing on something else. 
+<a name="footnote17"></a>[17.](#f17) A mental habit I picked up long time ago at a meditation workshop was "_Cancel, cancel!_".<br> Any time an unwanted or negative thought tried to intrude, I'd tell it to "Cancel, cancel!" so it would stop pestering me. Sometimes you still might need to tell it a few times and then ignore it completely by actively focusing on something else. 
 
-<a name="footnote18"></a>[18.](#f18)</a> Yet
+<a name="footnote18"></a>[18.](#f18) Yet

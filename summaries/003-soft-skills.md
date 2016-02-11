@@ -9,7 +9,7 @@ The Software Developer's Life Manual
 
 Author
 ------------
-John is a founder of [http://simpleprogrammer.com/](http://simpleprogrammer.com/) a blog turned developer-coaching and education consultancy. He's also a real-estate agent, course author, technical consultant, former aspiring model and has retired when he was 33 years old<sup>[1](#footnote1)</sup><a name="f1"></a>. 
+John is a founder of [http://simpleprogrammer.com/](http://simpleprogrammer.com/) blog which he turned into developer coaching and consultancy agency. He's also a real-estate agent, course author, technical consultant, former aspiring model who retired at 33 years of age<sup>[1](#footnote1)</sup><a name="f1"></a>. 
 
 
 
@@ -20,9 +20,9 @@ The book claims it's dedicated to all developers who strive for continuous self 
 
 The author wanted to write a guide how to be the most successful software developer in life, not just in programming. _That's what I aspire to!!_
 
-It also seemed to cover _every_ possible area of life except coding. From career management, writing a blog, creating a product, learning to learn, productivity, finances, real estate, fitness to spirituality. Even though it seemed geared to the developers at the start of their careers, I wanted to see what else I could learn.
+It also seemed to cover _every_ possible area of life except coding. From career management, writing a blog, creating a product, learning to learn, productivity, finances, real estate, fitness to spirituality. Even though it seemed geared to developers at the start of their careers, I wanted to see what else I could learn.
  
-The book is composed of 7 thematic sections - [Career](#career), [Marketing Yourself](#marketing-yourself), [Learning](#learning), [Productivity](#productivity), [Financial](#financial), [Fitness](#fitness) and [Spirit](#spirit) which have different number of the 71 short chapters there are in the book.
+The book is composed of 7 thematic sections - [Career](#career), [Marketing Yourself](#marketing-yourself), [Learning](#learning), [Productivity](#productivity), [Financial](#financial), [Fitness](#fitness) and [Spirit](#spirit) in which there are 71 chapters.
 
 Each section ends with several questions left for the reader to work through. 
 
@@ -33,15 +33,15 @@ Summary
 Career
 ------
 ### How to think like a business?
-The book starts with advice on career building and management - about changing the perception from thinking about yourself in terms of the job you to looking at yourself as a business which offers particular services. Your image and your reputation are your personal brand, your services and know-how is what you sell. 
+The book starts with advice on career building and management - about changing the perception from thinking about yourself in terms of the job you do, to looking at yourself as a business which offers particular services. Your image and your reputation are your personal brand, your services and know-how is what you sell. 
 
 ### For people looking for a job
-The author suggest for ways they could improve their offering, specialization in particular service or industry. If you're looking for a job, you only really need one client. After thinking about big career goals, they should be broken up into smaller ones, and regularly reviewed.
+The author suggest for ways we could improve our offering, for example, by specializing in particular service or industry. If you're looking for a job, you only really need just one client. After thinking about big career goals, we should break those goals into smaller ones, and regularly review them.
 
 ### Getting along with people 
-It's essential for any work, as even though we talk to machines, we need to listen to people. Author here recommends [_How to Win Friends and Influence People_](#books), and summarizes down to understanding that everyone wants to feel important, rewarding positive behavior works better than criticism and putting yourself in other people's shoes, especially when trying to explain something and avoiding arguments (pick your battles).
+It's essential for any work, as even though we talk to machines, we need to listen to people. Author here recommends [_How to Win Friends and Influence People_](#books), saying we need to understand that everyone wants to feel important and how rewarding positive behavior works better than criticism. Putting yourself in other people's shoes, especially when trying to explain something helps to avoid needless arguments. _Pick your battles._
 
-Few chapters are mostly for somebody who never worked in the industry, dealing with job interviews and employment possibilities, specialization in programming, different opportunities at small, medium and large companies and ins and outs of working for each one.
+The next few chapters are mostly for somebody who never worked in the industry, dealing with job interviews and employment possibilities, specialization in programming, different opportunities at small, medium and large companies and ins and outs of working for each one.
 
 ### Being a professional 
 
@@ -51,10 +51,10 @@ Few chapters are mostly for somebody who never worked in the industry, dealing w
 To become a professional we're advised to develop good habits, improve our time management by planning days in advance (the author will later mention [_Getting Things Done_](#books)) and develop and constantly improve sense of workmanship and quality. That helps being able to say "no" where we're asked to do what goes against our better judgement. 
 >A professional assesses the work that has to be done, prioritizes it, and gets to work.
 
-Three chapters cover quitting a job, freelancing and founding a startup, with nothing more than a common-sense advice and easily browsable information. 
+Next three chapters cover quitting a job, freelancing and founding a startup, with nothing more than a common-sense advice and easily browsable information. 
 
 ### Working remotely 
-Suggests setting hard hours for work, being realistic about self motivation needed for work when nobody is peeking over your shoulder, and helping ourselves by removing distractions and "doing something for 15 minutes only" which is a hack to get momentum which helps us do more work. Loneliness can be a surprising challenge for some so we could get out, schedule some activities with other people such as programming meetup or anything, really.
+The chapter suggests setting hard hours for work. We need to be realistic about self motivation needed for work when nobody is peeking over our shoulder, and help ourselves by removing distractions. Starting with "doing something for 15 minutes only" provides us with momentum which helps us do more work. Loneliness can be a surprising challenge for some so we should get out, schedule some activities with other people such as programming meetups, work in coworking spaces etc.
 
 
 Chapter #18 has a good advice for a budding programmer - don't get religious about technology. Stop the (hate) wars! 
@@ -108,12 +108,12 @@ Learning
 --------
 >Education is what remains after one has forgotten what one has learned in school.<br>~ Albert Einstein
 
-With tech industry changing rapidly, the best skill we can have is knowing how to learn - being good at teaching ourselves.
+With the tech industry changing rapidly, the best skill we can have is knowing how to learn - being good at teaching ourselves.
 
 Turns out that different learning styles idea is [mostly a myth](http://elearninginfographics.com/the-myth-of-learning-styles-infographic/) and we all learn the best by doing and teaching. Active learning is a much more effective way to learn than any other way.
 
 ### Active learning
-You could read all the books about riding bicycles, understand all the underlying physical forces, but you'll only learn to ride a bicycle by riding a bicycle. Think of playing video games - you only need to know what basic controls are to start playing, everything else you learn by watching others play and occasional referring to the manual as you become more serious.
+You could read all the books about riding bicycles, understand all the underlying physical forces, but you'll only learn to ride a bicycle by riding a bicycle. Think of playing video games - you only need to know what basic controls are to start playing, everything else you learn by playing, watching others play and occasional referring to the manual as you become more serious.
 
 To learn a technology, there are 3 main things to know
 
@@ -125,7 +125,7 @@ To learn a technology, there are 3 main things to know
 
 ###10-step system for learning new technologies
 
-For a chosen area of learning, do steps 1-6 once, and then repeat steps 7-10. 
+For a chosen area of learning, do steps 1-6 once, and do steps 7-10 repeadetly. 
 
 1. Get the big picture<br>_How does this fit in the bigger scheme? What's the 50,000 foot perspective?_
 2. Determine scope<br>_Having a reason for learning helps determine scope. Why learn this?<br>Be practical & specific, instead of "learn Java", you can "Learn enough Java to create a multiplatform console application"<br>Adjust focus on time you have, is it weeks or months?_
@@ -135,20 +135,20 @@ For a chosen area of learning, do steps 1-6 once, and then repeat steps 7-10.
 6. Filter resources<br>_It's important to narrow your resources down to smaller list of the best ones for practical reasons_
 7. Learn enough to get started<br>_Find the quick-start guides, how to make a "hello world", or development environment setup guides. Find enough to be able to play around_
 8. Play around<br>_When just reading a book or watching a video about the subject we can absorb too much information, there's no way to tell what's important<br>Play and experiment on your own. Try features out. Create a small project, write down the questions you don't have the answers for and..._
-9. Learn enough to do something useful<br>_Hopefully by now you're more curious and particular enough to know to choose to learn more in-depth from your resources<br>Go back to play around when you get deeper insights_
+9. Learn enough to do something useful<br>_As you become more curious after playing around, you can get deeper insights from your learning resources, as you are now looking for answers to specific questions_
 10. Teach<br>_It's a process that will cause you to really dissect and understand the topic you're learning about in your own mind as you organize the information in a way that will make it understandable to other<br>Write an article or create a video, talk to a spouse or a friend, but do take some time to take what you learned from your mind and organize it in a way someone else can understand_
  
 ### Finding a mentor
-It can greatly accelerate your learning. Don't judge too quickly on possible mentors by their own life. Not every sports coach is in a peak physical condition but that doesn't mean they're bad teachers. 
+It can greatly accelerate your learning. Don't judge too quickly on possible mentors by their own life. Not every sports coach is in a peak physical condition but that doesn't mean they're bad at getting the best out of others. 
 
-You want to find someone who did what you're trying to do or helped other people to do it. It's important to look at results they have to show and how well do you get along with that person. You can find someone among your family or friends, or someone your friend or family knows. Other places to look for are local software [meetups](http://meetup.com) and local entrepreneurial groups.
+You want to find someone who **did what you're trying** to do or **helped other people** to do it. It's important to look at results they have to show and **how well do you get along** with that person. You can find someone among your family or friends, or someone your friend or family knows. Other places to look for are local software [meetups](http://meetup.com) and local entrepreneurial groups.
 
-To recruit yourself a mentor, the author suggest you offer free labor. That was the only idea he suggested with "_it's really hard to turn down free labor_", other than being persistent and tenacious. Being a sufficient pain in the butt could work too. 
+To recruit yourself a mentor, the author suggest you offer free labor. That was the only idea he suggested with "_it's really hard to turn down free labor_", other than being persistent and tenacious. Apparently, being a sufficient pain in the butt could work too. 
 
 If you can't find a mentor for the purpose of specific learning (Nikola Tesla and Alan Turing are not available, for example), like [Napoleon Hill](#books) - read biographies of great people and have imaginary conversations with them. Seriously 😁
 
 ### Becoming a mentor
-Further down the learning path, we're suggested to take on the apprentice, in the words of the author "_to become Yoda_". Not just we'd be giving back to the community, it can greatly benefit us. Teaching others is an established way of learning (and it's only enough you're one step ahead of the person you're teaching), and it might well be that someone we're coaching today turns out to be helping us few years later. And - **you grow when you help others grow**.
+Further down the learning path, we're suggested to take on the apprentice, in the words of the author "_to become Yoda_". We'd be giving back to the community and it can greatly benefit us. Teaching others is a part of mastering knowledge, and it's only enough you're one step ahead of the person you're teaching. It might well turn out that someone we're coaching today turns out to be helping us few years later. And - **you grow when you help others grow**.
 
 How to find yourself a _tiny grasshopper_, _a young padawan_? Look among people asking for your help and opinion, but look for someone who has a true desire to learn and is willing to work hard to do it, someone who wants your help to accelerate their progress by benefit of your experience.
 
@@ -159,12 +159,12 @@ Teaching takes you from learning something to actually understanding it.
 
 >Trying to teach something to someone else, you force yourself to confront difficult questions about your subject matter and to explore it more deeply until you go from merely learning about a thing to understanding it. Learning tends to be temporary, but understanding is permanent. I can memorize multiplication tables, but if I understand how multiplication works, I can reproduce the tables even if my memory fails me at some point.
 
-**How to teach?** Remember you're trying to help someone else, so it's not about your superiority. Start small (blog, a video, tutorial, a presentation, screencasts, courses)
+**How to teach?** Remember you're trying to help someone else, so it's not about your superiority. Start small, with a blog, a video, tutorial or a presentation, and move on to create and manage courses and workshops.
 
 ### Finding gaps in your knowledge 
 This seems like a worthwhile subject. We tend to gloss over our gaps in knowledge and we tend to be too busy to stop and take time to fill them in. _We end up not really understanding what we're doing or do things in an inefficient way to avoid areas where we're weak or feel uncomfortable._ Look where you're spending the largest amount of time and any repeated tasks you're doing. Do you know most common keyboard shortcuts for an application you use every day?
 
-A good way to keep track of gaps in your knowledge is to keep a lists of things you need to research or aren't clear about. Keep track of the same items that keep coming up. Don't be embarrassed to ask questions when you don't understand something.
+A good way to keep track of gaps in your knowledge is to keep a list of things you need to research or aren't clear about. Keep track of the same items that keep coming up. Don't be embarrassed to ask questions when you don't understand something.
  
 Productivity
 ------------
@@ -181,7 +181,9 @@ How to get in the focused state? Start working on something that you estimate wi
 ### The Author's personal productivity plan 
 It's a blend of [Getting Things Done](#books), [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) and Seinfeld's "[Don't break the chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)". He plans his week in advance using a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board). He divides the year to quarters and dedicates each quarter to a big project, plus several smaller ones, and plans ahead on weekly (using the Kanban board) and monthly (using a calendar) basis<sup>[3](#footnote3)</sup>. He plans every day in the morning, by moving the prepared tasks to "today" column on his modified Kanban board - he works on most interesting or most important task first.
 
-The author schedules daily work in 25 minute long "*pomodori*" and estimates to get around 10 *pomodori* a day - each one is a 25 minute long uninterrupted focused work, and not easily achievable. That requires thoughtful dealing with distractions - make it clear to other people there are times you need to focus to get your work done, you can reply to that text or email in 25 minutes. For breaks and vacations he has some _free_ weeks, where he doesn't schedule the time with _pomodoris_.
+The author schedules daily work in 25 minute long "*pomodori*" and estimates to get around 10 *pomodori* a day - each one is a 25 minute long uninterrupted focused work, and not easily achievable. That requires thoughtful dealing with distractions - make it clear to the other people that there are times you need to focus to get your work done. You'll get to check your phone or email when the 25 minutes are up. 
+
+For breaks and vacations he has some _free work_, where he doesn't schedule the time with _pomodoris_.
 
 > If you’re going to adopt this technique, make sure you have a realistic expectation of what you can actually accomplish. Just because you work 40 hours in a week doesn’t mean you can get 80 pomodori done. (If you’re able to achieve that feat, I’d be utterly amazed, and, quite honestly, would fear for your mental health.)
 
@@ -199,20 +201,20 @@ The commitment to quotas is essential, it helps to be realistic and practical wh
 * Adjust. Make your quota higher or lower, but don’t adjust during an interval.
 
 ### Being self-accountable
-Make it a thing to be accountable to yourself. The motivation can be _external_ or _internal_. The author here recommends [Daniel Pink’s book Drive](#books) There's no hard advice here - you need to create rules how you'd like to live your life, especially around areas critical to your success. It can help imagining yourself as a video game character and imagine the life you'd like to lay out for that character. The author suggests that external help like an accountabilibuddy, supporting group, making your actions as public as possible<sup>[4](#footnote4)</sup>.
+Make it a thing to be accountable to yourself. The motivation can be _external_ or _internal_. The author recommends [Daniel Pink’s book Drive](#books) There's no hard advice here - you need to create rules how you'd like to live your life, especially around areas critical to your success. It can help imagining yourself as a video game character and imagine the life you'd like to lay out for that character. The author suggests that external help like an accountabilibuddy, supporting group and making your actions as public as possible<sup>[4](#footnote4)</sup>.
 
 >It’s important to develop a sense of self-accountability to be productive when no one is looking. You could also call this having character or integrity, because they’re all part of the same idea. Without this sense of accountability to yourself, you’re always dependent on external motivations to get you to perform. You become easily manipulated by a carrot promising a reward or a stick promising...a beating if you fall out of line.
 
 ### Multitasking
-Instead of all the breaking of the flow and the cost of constant context switching, which multitasking brings, the Author suggests _batching_ instead<sup>[5](#footnote5)</sup>. Interesting argument presented in the chapter is about _true_ multitasking<sup>[6](#footnote6)</sup>; doing two mentally taxing things at once is impossible to do well, but doing a _physically_ engaged and _mentally_ engaged task simultaneously is quite easy - listening to an audiobook while driving, for example, or listening to instrumental music while writing, reading your email while walking on a treadmill, etc. 
+Multi-tasking and the resulting work fragmenation result in breaking of the flow and lost productivity because of constant context switching. The author suggests _batching_ instead<sup>[5](#footnote5)</sup>. Interesting argument presented in the chapter is about _true_ multitasking<sup>[6](#footnote6)</sup>; doing two mentally taxing things at once is impossible to do well, but doing a _physically_ engaged and _mentally_ engaged task simultaneously is quite easy - listening to an audiobook while driving, for example, or listening to instrumental music while writing, reading your email while walking on a treadmill, etc. 
 
 ### Burnout
 This is imho the worst chapter in the book. The Author seems to be confusing burnout with "hitting a wall", so his advice is "just stick with it". Which makes sense when you hit a wall - your product is not taking off, you become disillusioned with your job, you leave your book half written - so you should stick with that and break through the wall<sup>[7](#footnote7)</sup>. But burnout is more like hitting ground after deorbiting, burning out in the atmosphere before exploding and leaving a trail of destruction. Burnout requires a person to step back and take a break, probably get some help - before it makes more damage. Burnout can kill you. Burnout is [Karōshi](https://en.wikipedia.org/wiki/Kar%C5%8Dshi).
 ### Time wasters
-It comes down to "Don't watch TV" & tracking your time to identify the bigger time wasters (commonly social media, news sites, unnecessary meetings, cooking, video games, etc). 
+It comes down to "Don't watch TV" and tracking your time to identify the bigger time wasters (commonly social media, news sites, unnecessary meetings, cooking, video games, etc). 
 
 ### Routine
-This chapter reveals the power of little incremental effort. With full time jobs most people have 4-6 free hours in a day, which is most time they can dedicate to routine(s). A list of daily activities is enough to implement, and remember to be flexible enough to accept the unexpected events. 
+This chapter reveals the power of little incremental effort. With full time jobs most people have 4-6 free hours in a day, which is most time they can dedicate to routine(s). Create a list for daily scheduled activities (with variety, like lunch A/B on weekdays, eat out on weekend). Slot out dedicated times for work, workout, play and learning. 
 
 >Write 1,000 words a day, every day, and in a year you’ll have written four novels. (The average novel is between 60,000 and 80,000 words.)
 
@@ -225,22 +227,21 @@ Author here mentions [The Power of Habit](#books) and summarizes habits of being
 
 The key is to **identify bad habits**, and ideally, use them to replace them with good ones (_a twofer!_)<sup>[9](#footnote9)</sup>. To find the bad habits, look into things you do that make you feel guilty, what is it that you want to stop doing, but keep putting off? Start small, find a single habit, figure out it's triggers and you'll be able to break it or use the triggers to install a better routine for your habit. It takes time. 
 
-To form an entirely new habit, stick with it long enough<sup>[10](#footnote10)</sup><sup>, [11](#footnote11)</sup> and figure out a reward (e.g. 5 min break, playing a game for a limited time) & cue (what triggers the habit? - time it regularly, use reminders or piggyback on another habit).
-
+To form an entirely new habit, stick with it long enough<sup>[10](#footnote10)</sup><sup>, [11](#footnote11)</sup> and figure out a reward (e.g. 5 min break, playing a game for a limited time, working on most interesting task next). Lastly - find or create the cue that triggers the habit. We can put a reminder in the calendar or even better - piggyback on another habit. For example, if we habitually check our mail every morning, we could try to remind ourselves to workout after that (if we're trying to make a habit of working out). 
 
 > We are what we repeatedly do. Excellence, then, is not an act, but a habit.<br>~ Aristotle
 
 ### Breaking down things
-Describes project planning (breaking a big task in bunch of smaller ones) basically deals with piecemeal approach to the bigger projects, to help against procrastination. 
+The chapter on breaking down things doesn't say anything about wrecking furniture or busting printers with baseball bats, it describes project planning (breaking a big task in bunch of smaller ones) as in - piecemeal approach to the breakup of bigger projects. If you're intimidated by a big project, you're likely to procrastinate starting on it. 
 >How to eat an elephant?<br>When eating an elephant take one bite at a time.<br>~ Creighton Abrams
 
 ### Why is hard work hard?
-We tend to think that of work that is likely to benefit us. No matter how smart you work, there's no substitute for hard work<sup>[12](#footnote12)</sup>. Like _Nike_ says - "Just do it!"
+We tend to think that of work that is likely to benefit us. No matter how smart we can work, in the end, there's no substitute for hard work<sup>[12](#footnote12)</sup>. Like _Nike_ says - "Just do it!"
 
 >The race is to the driven, not to the swift.<br>~ John Jakes, North and South
 
 ### Any action is better than no action.
-What prevents us from action is mostly fear. Fear of unknown, fear of failure, fear of not knowing enough, fear of not being up to it. Don't die like the donkey that couldn't decide between two stacks of hay. Pick one and if you're going in the wrong direction, adjust accordingly. 
+What prevents us from action is mostly fear. Fear of unknown, fear of failure, fear of not knowing enough, fear of not measuring up to it. Don't die like the donkey which starved to death because it couldn't decide between the two stacks of hay. Examine your option, pick one and if you're going in the wrong direction, adjust accordingly. 
 
 > Any action is often better than no action, especially if you have been stuck in an unhappy situation for a long time. If it is a mistake, at least you learn something, in which case it’s no longer a mistake. If you remain stuck, you learn nothing.<br>~ Eckhart Tolle, The Power of Now
 
@@ -259,13 +260,13 @@ What prevents us from action is mostly fear. Fear of unknown, fear of failure, f
 Financial
 ---------
 
-This section comes goes in describing retirement funds<sup>[13](#footnote13)</sup>, negotiating your salary, stocks & options trading, real estate market, and the dangers of being in debt. It's geared towards software developers as likely to earn relatively big salaries. 
+This section comes goes in describing retirement funds<sup>[13](#footnote13)</sup>, negotiating your salary, stocks and options trading, real estate market, and the dangers of being in debt. It's geared towards software developers since they are more likely to earn big salaries. 
 
 Most of this section deals in very specific areas rather superficially, letting the reader know general ins and outs of particular field to start actually learning more on their own, and ends with a chapter about the author retiring at 33 years old.
 
-This last, biographical chapter, gets very TV-salesman-y in which the author figures out that _technically_ retirement means if you have passive income which exceeds your expenses, you are officially retired. 
+This last, biographical chapter, gets very TV-salesman-y in which the author figures out that _technically_ retirement means - if you have passive income which exceeds your expenses, you are officially retired! 
 
-He started with selling gumball machines, and proceeded to get into real estate business and buys several rental properties which he'll cash out in 20 or 30 years after paying out a loan, and in the mean time covers his expenses by rent charged by the residents.<sup>[14](#footnote14)</sup> 
+He started with selling gumball machines. Afterwards he proceeded to get into real estate business and ended up buying several rental properties which can cash out in 20 or 30 years. In the mean time his expenses are covered by rent.<sup>[14](#footnote14)</sup> 
 
 Most of the general advice the author lifted from [Robert Kiyosaki](#books) on _assets_ vs _liabilities_
 
@@ -288,26 +289,26 @@ Fitness
 
 Programmers can look handsome and beautiful! Being in a good physical condition also boosts your confidence as you feel better when you look better. You also think better and provide more oxygen to your brain and body. Most importantly, having an active lifestyle is very important for people with sedentary lifestyles such as software developer's.
 
-Most of the section is geared towards absolute n00b, from setting fitness goals with milestones and measuring progress, to calories, proteins and carbohydrates. 
+Most of the section is geared towards absolute n00bs, from setting fitness goals with milestones and measuring progress, to calories, proteins and carbohydrates. 
 
 ### Motivation
-Instead of buying those awesome running shoes _first_, only to have them gathering dust - promise yourself you'll buy yourself the shoes _after_ you've been running a month. Author cites [The Willpower Instinct](#books) saying several studies show rewarding yourself before you reach a goal can make you feel like you already achieved it. Having a good streak helps. Using [apps](#apps) to gasify workouts. Having a challenge or a workout buddy. Listening a podcast or audiobook while running or lifting weights to get more value. 
+Instead of buying those awesome running shoes _first_, only to have them gathering dust - promise yourself you'll buy yourself the shoes _after_ you've been running a month. Author cites [The Willpower Instinct](#books) saying several studies show rewarding yourself before you reach a goal can make you feel like you already achieved it. Having a good streak helps. Using [apps](#apps) to gamify workouts. Find a challenge or a workout buddy. Listen to a podcast or audiobook while running or lifting weights to get more value. 
 
 ### Hacks
-Standing desks with our without combination with treadmill can be a fantastic way to get two activities at once. In the author's experience, it's possible to walk and reply to emails, but not really walk and code. Standing and coding works too. Using Pomodoro technique could be utilized to do few pull-ups, pushups, stretches during the breaks. 
+Standing desks with treadmills can be a fantastic way to get two activities at once. In the author's experience, it's possible to walk and reply to emails, but not really walk and code. Standing and coding works completely fine, though. Using Pomodoro technique could be utilized to do few pull-ups, pushups or stretches during the breaks. 
 
 Food and dieting programs can overly complicate things so try to keep it simple by planning and making meals in advance, sticking to few simple recipes. 
 
 ### Gadgets
-A good way to further gasify and engage is using pedometers or dedicated lifestyle apps like Moves and devices like Jawbone. There are also smart wireless scales which upload your weighing sessions and keep track over time. Good wireless headphones are warmly recommended.
+A good way to further gamify and engage is using pedometers or dedicated lifestyle apps like Moves and devices like Jawbone or Fitbit. There are also smart wireless scales which upload your weighing sessions online and keep track over time. Good wireless headphones are a smart purchase to make.
  
 
 Spirit
 ------
 
-The link between the mind and the body which we're to strengthen if we're ever to "conquer the greatest enemy you will ever face - yourself"<sup>[16](#footnote16)</sup>
+This section goes to talk about spirit (which author mostly confuses with mind). We are to strengthen our spirit if we're ever to "conquer the greatest enemy you will ever face - yourself"<sup>[16](#footnote16)</sup>
 
-Everything starts in the mind - in the spirit. The idea can be to move the glass of water closer to your face or build an amazing product, the physical reality always follows what started as a _mere idea_.
+Everything starts in the mind. The idea can be to move the glass of water closer to your face or build an amazing product, the physical reality always follows what started as a _mere idea_. 
 
 It may be called "[The Secret](#books)" or "Law of Attraction" or "Sympathetic Magic" but like attracts like, regardless of the name or the definition. Your expectations color your reality, and what you do is what you believe in. 
 
@@ -315,11 +316,11 @@ It may be called "[The Secret](#books)" or "Law of Attraction" or "Sympathetic M
 
 ### Positive Thinking
 
-Author here retells a (different version than here) story about the old man and his son.
+Author retells a (different version than here) story about the old man and his son.
 > An old farmer lived with his son in a village. One day, their only horse broke through the fence and ran away. All the neighbors; hearing of the news said "Oh how unfortunate!"<br>The old farmer just said "We'll see"<br>A week later, the horse returned with a herd of wild horsed which the farmer and son quickly corralled. All the neighbors were now nodding their heads saying "Oh, what good fortune!".<br> The old farmer replied "We'll see"<br> In a few days, while trying to tame one of the wild horses, the son got thrown from the horse and badly broken his leg. The neighbors, worryingly shook their heads "Oh such bad fortune!"<br>Old farmer told them "We'll see". Not very soon after that a war broke out and King's captains came to the village to round up young men of fighting age. Seeing old farmer's son delirious with fever, the captain left him be. As the son started getting better, the neighbors gladly agreed "How very fortunate!"
 <br>The old farmer said only "We'll see"
 
-Nothing in itself is good or bad, your attitude in reaction to it is everything. So meditate, play more (you only stop growing when you stop asking questions) to cultivate playful curiosity. Try to capture your thoughts to introspection and keeping a journal can help identify and stop negative thinking<sup>[17](#footnote17)</sup>. 
+Nothing in itself is good or bad, your attitude in reaction to it is everything. Play more to reawaken and cultivate your natural playful curiosity. Keep having an open mind - you only stop growing when you stop asking questions. Try to capture your thoughts and become more aware of them. Meditation, introspection and keeping a journal can help identify and stop negative thinking<sup>[17](#footnote17)</sup>. 
 
 
 ### Affirmations
@@ -327,37 +328,38 @@ Nothing in itself is good or bad, your attitude in reaction to it is everything.
 >People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.<br>~ 
 Andrew Carnegie
 
-The author affirms the power of positive affirmations as a way to change, otherwise difficult to change, subconscious image of ourselves. Repeat positive affirmations about yourself, find motivational images and really picture yourself as you want to become, feeling the way you believe you'll feel when you get there. 
+The author affirms the power of positive affirmations as a way to change otherwise difficult to change, subconscious image of ourselves. Repeat positive affirmations about yourself, find motivational images and really picture yourself as you want to become, feeling the way you believe you'll feel when you get there. 
 
 ### Love
 
 > Computers can't hold your hand<sup>[18](#footnote18)</sup>
 
-This ramble chapter mostly tells the reader to not come off as desperate and learn about _the game_ and keep in mind it's a numbers game. Sigh. 
+This rambling chapter mostly tells the reader to not come off as desperate and learn about _the game_ and keep in mind it's a numbers game. Slightly cringe inducing chapter. 
 
 ###Failure
 
 > Fall down seven times, get up eight.<br>~ Japanese Proverb
 
-Perseverance is one of the most important skills you have to possess. Software development is difficult. Failure isn't the same as defeat - failure is temporary, defeat is permanent. 
+Perseverance is one of the most important skills we have to possess. Software development is difficult. Failure isn't the same as defeat - failure is temporary, defeat is permanent. 
 
-The real life doesn't work as a school where you get an F and you've utterly failed. In real life you learn something and hopefully grow. What fun would a video game be if every level was equally difficult and there were no real challenges? Learn to push yourself outside of your comfort zone, go and do things you find uncomfortable. You will make mistakes, you will learn, correct them and grow. 
+The real life doesn't work as a school where we get an F and we've utterly failed. In real life we learn something and hopefully grow. What fun would a video game be if every level was equally difficult and there were no real challenges? 
+
+Learn to push yourself outside of your comfort zone, go and do things you find uncomfortable. You will make mistakes, you will learn, correct them and grow. 
 
 Appendices
 ----------
 
-Appendix A & B deal in finances and stocks and C and D are about food and dieting, combined with the questions/exercises at the end of each chapter, the book could be used as a workbook for a personal improvement workshop. It doesn't beat [Becoming a Technical Leader](summaries/001-becoming-a-technical-leader.md)
+Appendix A & B deal in finances and stocks and C and D are about food and dieting.
+
 
 Conclusion
 ==========
 
 The book is lengthy and a bit repetitive. The short chapters make it easy to progress in bite-sized increments, but some chapters are several pages long while others are dozens with much more information. The ambitious goal of writing a book for software developers about everything else beyond code, falls a bit short for me as a non-beginner programmer since I found a substantial amount of content too superficial and in parts, overly simplified.
 
-That being said, I did enjoy quite a lot of the material and the areas are very widely (if shallow) covered. I'd definitely recommend this to a person studying IT or at their first programming gig. People with few years of experience will find themselves skipping entire chapters. 
+That being said, I did enjoy quite a lot of the material and as the areas are very widely (if shallow) covered, I did learn something. I'd definitely recommend this to a person studying IT or at their first programming gig. However, people with a few years of experience will find themselves skipping entire chapters. 
 
-I like the possibility of working through more interesting chapters by coming back and completing the "taking action" questions and exercises at the end of the each chapter. 
-
-
+I like the possibility of working through selected interesting chapters by coming back and completing the "taking action" questions and exercises. With the related appendices the book could be used as a personal workshop. It doesn't beat [Becoming a Technical Leader](summaries/001-becoming-a-technical-leader.md) though.
 
 Bibliography and Resources
 ==========================
@@ -437,6 +439,6 @@ Apps
 
 <a name="footnote16"></a>[16.](#spirit)</a> Sounds deep but I don't think it makes any sense
 
-<a name="footnote17"></a>[17.](#spirit)</a> A mental habit I picked up long time ago at a meditation workshop was "_Cancel, cancel!_".<br> Any time an unwanted or negative thought tried to intrude, I'd tell it to "Cancel, cancel!" so it would stop pestering me. Sometimes you still might need to tell it a few times and then ignore it completely by actively focus on something else. 
+<a name="footnote17"></a>[17.](#spirit)</a> A mental habit I picked up long time ago at a meditation workshop was "_Cancel, cancel!_".<br> Any time an unwanted or negative thought tried to intrude, I'd tell it to "Cancel, cancel!" so it would stop pestering me. Sometimes you still might need to tell it a few times and then ignore it completely by actively focusing on something else. 
 
 <a name="footnote18"></a>[18.](#spirit)</a> Yet

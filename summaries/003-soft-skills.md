@@ -45,7 +45,7 @@ The next few chapters are mostly for somebody who never worked in the industry, 
 
 ### Being a professional 
 
-[_The Art of War_](#books) is quoted
+[_The War of Art_](#books) is quoted
 >Turning pro is a mindset. If we are struggling with fear, self-sabotage, procrastination, self-doubt, etc., the problem is, we’re thinking like amateurs. Amateurs don’t show up. Amateurs crap out. Amateurs let adversity defeat them. The pro thinks differently. He shows up, he does his work, he keeps on truckin’, no matter what.
 
 To become a professional we're advised to develop good habits, improve our time management by planning days in advance (the author will later mention [_Getting Things Done_](#books)) and develop and constantly improve sense of workmanship and quality. That helps being able to say "no" where we're asked to do what goes against our better judgement. 

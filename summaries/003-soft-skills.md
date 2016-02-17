@@ -287,7 +287,7 @@ Fitness
 
 > The human body is the best picture of the human soul.<br>Ludwig Wittgenstein<sup>[15](#footnote15)</sup><a name="f15"></a>
 
-Programmers can look handsome and beautiful! Being in a good physical condition also boosts your confidence as you feel better when you look better. You also think better and provide more oxygen to your brain and body. Most importantly, having an active lifestyle is very important for people with sedentary lifestyles such as software developer's.
+Programmers can look handsome and beautiful! Being in a good physical condition also boosts your confidence as you feel better when you look better. You also think better and provide more oxygen to your brain and body. Most importantly, having an active lifestyle is very important for people with sedentary lifestyles such as software developers.
 
 Most of the section is geared towards absolute n00bs, from setting fitness goals with milestones and measuring progress, to calories, proteins and carbohydrates. 
 

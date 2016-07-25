@@ -10,9 +10,9 @@ Tom DeMarco, Timothy Lister • 1987, 2014 • ISBN 978-0-321-93411-6 • 272 pa
 
 About the Authors
 -----------------
-**Tim Lister** (born 1949) is a software engineer with specialty in software risk management is a lecturer and author on several books on software management.
+[**Tim Lister**](https://en.wikipedia.org/wiki/Tim_Lister) (born 1949) is a software engineer with specialty in software risk management is a lecturer and author on several books on software management.
 
-**Tom DeMarco** (born 1940) is a software engineer, lecturer and an early developer of structured analysis. Fellow of IEEE and received Warnier Prize for "lifetime contribution to the field of computing" in 1986 and Stevens Award for "contribution to the methods of software development" in 1999.
+[**Tom DeMarco**](https://en.wikipedia.org/wiki/Tom_DeMarco) (born 1940) is a software engineer, lecturer and an early developer of structured analysis. Fellow of IEEE and received Warnier Prize for "lifetime contribution to the field of computing" in 1986 and Stevens Award for "contribution to the methods of software development" in 1999.
 
 Both authors are principals of Atlantic Systems Guild, a consulting company specialized in methods and management of software development. They've been lecturing, consulting and writing on management, estimating, productivity and corporate culture since 1979. 
 
@@ -26,9 +26,9 @@ This is one of the books found in most *must read* lists for software engineers.
 Being able to organize programmers into a productive team is often compared to herding cats, and seems to be an endemic issue in the industry. I wanted to understand team dynamics better and make our team work smoother and be more productive. I was also curious to see what are we already doing right, and where could we improve our practices to empower our team. 
 
 The book is made out of 39 chapters broken down to five sections - [Managing the Human Resource](#managing-the-human-resource), [The Office Environment](#the-office-environment), [The Right People](#the-right-people), [Growing Productive Teams](#growing-productive-teams), [Fertile Soil](#fertile-soil) and 
-[It’s Supposed to Be Fun to Work Here](#it’s-supposed-to-be-fun-to-work-here)
+[It’s Supposed to Be Fun to Work Here](#its-supposed-to-be-fun-to-work-here)
 
-The main goal of the book seems to be to shine light on team dynamics and help software development teams to be successful, since most issues in software development are _sociological_ technology is unlikely to solve them.
+The main goal of the book seems to be to shine light on team dynamics and help software development teams to be successful, since most issues in software development are _sociological_, any technology is unlikely to solve them.
 
 >...it soon became clear to both of us that the social complexities on most of the projects we’d known simply dwarfed any real technological challenges that the projects had had to deal with.
 
@@ -44,9 +44,9 @@ Managing the Human Resource
 
 Most technological managers fall into the trap of trying to manage people like _modular_ pieces. It's a consequence of the experience in the industry where most technology can and is managed in modular pieces. It doesn't work when trying to manage people the same way.
 
-With over 500 project surveys (authors call them _project authopsies_) some trends emerged:
+With over 500 project surveys (authors call them _project autopsies_) some trends emerged:
  
-  * 15% of projects got cancelled, postponed or resulted in products never used
+  * 15% of projects got canceled, postponed or resulted in products never used
   * 25% projects that lasted 25 work-years or more failed to complete
   
 There was never a technological reason for these failures - it always boiled down to sociological problems. Most people in the industry like to think they are in high-tech business. The truth is only the people who brought the breakthroughs are in the _high-tech_ business. The rest of us are appliers of their work. We're in the _people business_. 
@@ -102,7 +102,7 @@ Psychologists have identified a small number of basic instincts dominating every
 
 > Managers jeopardize product quality by setting unreachable deadlines. They don’t think about their action in such terms; they think rather that what they’re doing is throwing down an interesting challenge to their workers, something to help them strive for excellence.
 
-We all tie our self-esteem to the quality of our work - nobody takes pride in producting ton of mediocre stuff. Anything that might jeopardize the quality of the project will cause the team working on it to flare up. 
+We all tie our self-esteem to the quality of our work - nobody takes pride in producing ton of mediocre stuff. Anything that might jeopardize the quality of the project will cause the team working on it to flare up. 
 
 > Workers kept under extreme time pressure will begin to sacrifice quality. They will push problems under the rug to be dealt with later or foisted off onto the product’s end user. They will deliver products that are unstable and not really complete. They will hate what they’re doing, but what other choice do they have?
 
@@ -116,13 +116,13 @@ Decision to pressure people into delivering a product that doesn't measure up to
 > Writing in 1954, the British author C. Northcote Parkinson introduced the notion that work expands to fill the time allocated for it, now known as Parkinson’s Law.
 
 
-Unlike Newton's laws which are phyisical laws you cannot break, Parkison's law got accepted not because it was true, but because it was funny. It mostly applies to bureaucracy, as a workplace where there's little satisfaction. 
+Unlike Newton's laws which are physical laws you cannot break, Parkinson's law got accepted not because it was true, but because it was funny. It mostly applies to bureaucracy, as a workplace where there's little satisfaction. 
 
 In tech industry it's more likely people will rush to complete the job, to get the satisfaction of publishing something they can be proud of. 
 
 > In a healthy work environment, the reasons that some people don’t perform are lack of competence, lack of confidence, and lack of affiliation with others on the project and the project goals. In none of these cases is schedule pressure liable to help very much. When a worker seems unable to perform and seems not to care at all about the quality of his work, for example, it is a sure sign that the poor fellow is overwhelmed by the difficulty of the work. He doesn’t need more pressure. What he needs is reassignment, possibly to another company.
 
-Two respected researchers at the University of New South Wales, Michael Lawrence and Ross Jeffery ran annual surveys on different aspects of tech industry in 80ies and 90ies. The survey from 1985 looked into effectivenes of different estimating methods. Turns out
+Two respected researchers at the University of New South Wales, Michael Lawrence and Ross Jeffery ran annual surveys on different aspects of tech industry in 80ies and 90ies. The survey from 1985 looked into effectiveness of different estimating methods. Turns out
 
 > Programmers seem to be a bit more productive after they’ve done the estimate themselves, compared to cases in which the manager did it without even consulting them.
 
@@ -232,7 +232,7 @@ The most obvious solution and the one proposed by the authors is to use the phon
  
 ### 12. Bring Back the Door
 
-The chapter is about the degradation of workplace environment, where only the top management gets to enjoy the luxury of having _the door_ to their office - a way to stop distractions and noise. Most workers are immersed in the neverending noise. 
+The chapter is about the degradation of workplace environment, where only the top management gets to enjoy the luxury of having _the door_ to their office - a way to stop distractions and noise. Most workers are immersed in the never-ending noise. 
 
 It emphasizes the need for workers to voice their concerns. Most people won't say anything, but when another person complains, they'll join in. 
 
@@ -387,7 +387,7 @@ One can prove that retraining is not the cheapest way to fill a new slot. It’s
 
 > An expense is money that gets used up. At the end of the month, the money is gone and so is the heat (or whatever the expense was for). An investment, on the other hand, is use of an asset to purchase another asset. The value has not been used up, but only converted from one form to another. When you treat an expenditure as an investment instead of as an expense, you are capitalizing the expenditure.
 
-What about people? While most managers consider salaries and other cost as an expense, whatever the company invests in the worker is actually an asset, since the acquired knowledge, skill and expertize _stay_ with the person and will contribute to the company.
+What about people? While most managers consider salaries and other cost as an expense, whatever the company invests in the worker is actually an asset, since the acquired knowledge, skill and expertise _stay_ with the person and will contribute to the company.
 
 > Companies that manage their investment sensibly will prosper in the long run. Companies of knowledge workers have to realize that it is their investment in human capital that matters most. The good ones already do.
 
@@ -415,7 +415,7 @@ Most managers naively expect their employees to accept the company goal as their
 
 However arbitrary the goal of building the system was, the team accepted it as their own and were enthusiastic about it. Refocusing their attention on the company interest just made the project seem trivial and meaningless.
 
-Goals of the corporation will always seem arbitrary to people, but that's fine - most sport goals are totally arbitrary but people get completely involved in the sport's team goals. Important insight is that team don't achieve goals - individuals achieve goals. Most of the work on any project is done by individuals working alone. The purpose of the team isn't goal achievement, it's _goal alignement_. When the team is fulfilling it's purpose, team members are more effective because they're more directed.
+Goals of the corporation will always seem arbitrary to people, but that's fine - most sport goals are totally arbitrary but people get completely involved in the sport's team goals. Important insight is that team don't achieve goals - individuals achieve goals. Most of the work on any project is done by individuals working alone. The purpose of the team isn't goal achievement, it's _goal alignment. When the team is fulfilling it's purpose, team members are more effective because they're more directed.
 
 The signs of the jelled teams:
 
@@ -468,7 +468,7 @@ The boss didn't trust his own people - only his judgement mattered.
 **Physical separation** - group members have to be able to have casual interaction, without which it's almost impossible to build a sense of common identity 
 
 
-**Fragmentation of people’s time** - too often people get assigned to multiple projects as the management feels their skills are too valuable. But it's not conducive to growing a jelled team as it's not possible to belong to multiple exlusive groups
+**Fragmentation of people’s time** - too often people get assigned to multiple projects as the management feels their skills are too valuable. But it's not conducive to growing a jelled team as it's not possible to belong to multiple exclusive groups
 > Fragmentation is bad for team formation, but it’s also bad for efficiency. People can keep track of only so many human interactions. When they try to be part of four working groups, they have four times as many interactions to track. They spend all their time changing gears. No one can be part of multiple jelled teams. The tight interactions of the jelled team are exclusive.
 
 
@@ -479,7 +479,7 @@ The boss didn't trust his own people - only his judgement mattered.
 > The people on your staff will know if they’re being bamboozled. If you say the product absolutely has to be out the door by some arbitrary date, they will ask, “Why? Will the universe grind to a halt if we’re late? Will the company fold? Will the nation slide into the sea? Will Western Civilization break down?”<br><br>In the typical phony deadline spiel, the manager announces that the work must be done on such and such a date. The date mentioned is impossible to meet, and everyone knows it. The effort will certainly slip (so much for the idea that the deadline is absolute). The work has been defined in such a way that success is impossible....The boss believes they won’t do a stroke of work except under duress. Don’t expect a jelled team on that project.
 
 
-**Clique control** - the higher up the organizational chart, the less of jelled teams there are, they only exist on the bottom, where the actual work is being done, but too often insecure managers try to break up the teams they percieve as _cliques_
+**Clique control** - the higher up the organizational chart, the less of jelled teams there are, they only exist on the bottom, where the actual work is being done, but too often insecure managers try to break up the teams they perceive as _cliques_
 
 > Most organizations don’t set out consciously to kill teams. They just act that way.
 
@@ -512,7 +512,7 @@ The story of spaghetti dinner tells about dinner meeting at the manager's house 
 ### 27. Open Kimono
 
 > The Open Kimono attitude is the exact opposite of defensive management. You take no steps to defend yourself from the people you’ve put into positions of trust. And all the people under you are in positions of trust. A person you can’t trust with any autonomy is of no use to you.<br><br>
-> It’s heady and a little frightening to know that the boss has put part of his or herreputation into the subordinates’ hands. It brings out the best in everyone. The team has something meaningful to form around. They’re not just getting a job done. They’re making sure that the trust that’s been placed in them is rewarded. It is this kind of Open Kimono management that gives teams their best chance to form.
+> It’s heady and a little frightening to know that the boss has put part of his or her reputation into the subordinates’ hands. It brings out the best in everyone. The team has something meaningful to form around. They’re not just getting a job done. They’re making sure that the trust that’s been placed in them is rewarded. It is this kind of Open Kimono management that gives teams their best chance to form.
 
 Trusting people who work for you will reward you with people who try not to disappoint. Many managers try to kick their workers into submission by visually supervising them. Visual supervision is a joke to development workers. Visual supervision is for prisoners. 
 
@@ -556,7 +556,7 @@ The Methodology would make all the decisions, people would make none.
 
 > A Methodology is a general systems theory of how a whole class of thought-intensive work ought to be conducted. It comes in the form of a fat book that specifies in detail exactly what steps to take at any time, regardless of who’s doing the work, regardless of where or when. The people who write the Methodology are smart. The people who carry it out can be dumb.
 
-If the people aren't smart enough, the work will fail and no Methodology can help. It also makes people using it give up their responsibility, because it's the Methodology's responsibility, "they were just following the process". Huge amount of documentation and paperwork prevents people from doing any meaninful work. The management's decision to use the Methodology tells the workers the management deems them incompentent which destroys the motivation to participate. 
+If the people aren't smart enough, the work will fail and no Methodology can help. It also makes people using it give up their responsibility, because it's the Methodology's responsibility, "they were just following the process". Huge amount of documentation and paperwork prevents people from doing any meaningful work. The management's decision to use the Methodology tells the workers the management deems them incompetent which destroys the motivation to participate. 
 
 ### 30. Dancing with Risk
 
@@ -590,7 +590,7 @@ It used to be pretty expensive in both money and time to communicate via letters
 > A family therapist will tell you that when one person in a relationship over-functions, the others are sure to under-function. When one sibling leaps up to clear the table and wash the dishes, you’re liable to see the others slipping off to do something more amusing. Could that be happening in your organization? When you over-coordinate the people who work for you, they’re all too likely to under-coordinate their own efforts.
 <br><br>A decent coach understands that his or her job is not to coordinate interaction, but to help people learn to self-coordinate.
 
-**Corporate spam** is all the mail that has many people CC'd on it, who don't need to actually read or respond to the email. How to eliminate the corporate spam? One way to do it would be applying some security-minded thinking: while going through your inbox ask yourself - "Do I need to know this?". When security is key, the information is routed on strickly need-to-know basis. Ask the same question when sending email and only include the people who absolutely need to know the information being sent. 
+**Corporate spam** is all the mail that has many people CC'd on it, who don't need to actually read or respond to the email. How to eliminate the corporate spam? One way to do it would be applying some security-minded thinking: while going through your inbox ask yourself - "Do I need to know this?". When security is key, the information is routed on strictly need-to-know basis. Ask the same question when sending email and only include the people who absolutely need to know the information being sent. 
 
 > Do the need-to-know test on your incoming e-mail, but do it, too, on the messages you send out. Each time you’re inclined to send a coordinating e-mail to a colleague or to anyone who works for you, think about what steps you have to make to coach that person to self-coordinate. Don’t expect this to be easy. Telling someone what to do is easy, while instilling self-coordinating abilities in that same person is much more complicated. But it pays off in the long run. If you need to puzzle long and hard over how to make it happen, remember that’s why you make the big bucks.
 
@@ -611,10 +611,10 @@ Jerry Johnson, one-time director of Menninger Foundation devised a _resistance t
 
 #### Resistance to change continuum 
   1. Blindly loyal (ask no questions)
-  2. Believers but Questioners
-    a. Skeptics (Show me)
-    b. Passive Observers (What's in it for me?)
-    c. Opposed (Fear of Change)
+  2. Believers but Questioners<br>
+    a. Skeptics (Show me)<br>
+    b. Passive Observers (What's in it for me?)<br>
+    c. Opposed (Fear of Change)<br>
     d. Opposed (Fear of Loss of Power)
   3. Militantly Opposed (Will Undermine and Destroy)
   
@@ -635,7 +635,7 @@ But in reality what happens is something closer to
   1. Old Status Quo
   <br>_A Foreign Element_<br>
   2. Chaos
-  <br>_Transformative Idea<br>
+  <br>_Transformative Idea_<br>
   3. Practice and Integration
   4. New Status Quo
 
@@ -643,7 +643,7 @@ The chaos is the dip in productivity - using new tool or procedure is hard, peop
 
 The transformative idea is when people start getting the hang of it and see the success is near, devising ways of incorporating change into their daily work. 
 
-With the naive approach, since we don't expect Chaos, we mistake it for the New Status Quo and think "Oops, we blew it, better change back". Temporarily loss of mastery is embarrasing for most people - it has to be safe to change, without demeaning anyone. 
+With the naive approach, since we don't expect Chaos, we mistake it for the New Status Quo and think "Oops, we blew it, better change back". Temporarily loss of mastery is embarrassing for most people - it has to be safe to change, without demeaning anyone. 
 
 Change has only chance of succeeding if failure, at least a little bit of failure - is okay.
 
@@ -659,7 +659,7 @@ The organization can either _Instill new skills and approaches in it's people_ o
 
 ### 36. The Making of Community 
 
-The need for a community is build in deelpy in humans, the best managers know that and focus their efforts on making communities. The companies that succeed in building a satisfying community tends to keep it's people - when the sense of community is strong enough, nobody wants to leave. Even when people need to leave for any reason, they will time their departure so they don't impact any on-going project. 
+The need for a community is build in deeply in humans, the best managers know that and focus their efforts on making communities. The companies that succeed in building a satisfying community tends to keep it's people - when the sense of community is strong enough, nobody wants to leave. Even when people need to leave for any reason, they will time their departure so they don't impact any on-going project. 
 
 > We are not going to presume to set forth a formula for such a complicated matter. There is no formula. Like any work of art, your success at fostering community is going to require substantial talent, courage, and creativity. It will also need an enormous investment of time. The work will not be completed by you alone; at best, you will be the catalyst. The form of your creation will not be very much like anyone else’s.<br><br> So, in place of a formula, we offer instead an example, a single example. The example comes from one of our client companies, a company where one enterprising manager stepped in and changed the culture forever. This catalytic genius persuaded the organization to build itself around a school. The school is made up of a day-care and preschool center, plus classes for kindergarteners through fifth graders. The school is for the children of employees.<br><br> No doubt you can see the dollars-and-cents rationale for this, the unique advantage the company gained for hiring programmers and engineers in a tight market. But you’d have to walk through the company to see what the school does for community. You’d have to be there for that moment every afternoon when the teachers lead the entire student body through the whole facility. They make up a noisy, funny, triumphantly silly parade of little kids whooping it up and saying hello to everyone. You can hear them coming a mile away. All work pauses for the procession. There are lots of hugs. When it’s over, everyone feels great.<br><br> Imagine having been the person responsible for that. Imagine having that to look back at from the age of a hundred and one.
 
@@ -675,7 +675,7 @@ It’s Supposed to Be Fun to Work Here
 > There is something about human nature that makes us the implacable enemies of chaos. Whenever we encounter chaos, we roll up our sleeves and go right to work to replace it with order.<br><br>
 > We’re all eager to improve our methods and make the business of development a more orderly enterprise. That’s progress. True, some of the crazy fun is lost in the process, but one person’s fun may be another’s agony (that project you thought was such a lark probably gave your boss an ulcer). In any event, progress toward more orderly, controllable methods is an unstoppable trend. The thoughtful manager doesn’t want to stop the trend, but may nonetheless feel a need to replace some of the lost disorder that has breathed so much energy into the work. This leads to a policy of **constructive reintroduction of small amounts of disorder**.
 
-The authors here give us a list of methods they've successfuly used to reintroduce disorder:
+The authors here give us a list of methods they've successfully used to reintroduce disorder:
 
   * Pilot projects
   * War games
@@ -752,21 +752,21 @@ It pays of enormously to the companies as the people employed in such a way are 
 
 In the conclusive chapter of the book authors warn us to keep our efforts for change focused. It's better to pull off one substantial change (inspired by the book) properly than to try to do too much, causing chaos and dissatisfaction of everyone involved. 
 
-> Just north of the Danish city of Copenhagen is the castle Kronborg. For a price of few kroner, you can visit the castle casements and see there the reclining form of Holgar Dansk, the legendary sleeping giant of Denmark. He sleeps quietly while the country rests in peace, but if ever Denmar should be in danger, Holgar will awake, and then his wrath will be terrible to see. 
+> Just north of the Danish city of Copenhagen is the castle Kronborg. For a price of few kroner, you can visit the castle casements and see there the reclining form of Holgar Dansk, the legendary sleeping giant of Denmark. He sleeps quietly while the country rests in peace, but if ever Denmark should be in danger, Holgar will awake, and then his wrath will be terrible to see. 
 
 The giant in your organization is the body of your coworkers. If there's too little common sense, and too much harm is done to the environment of the workplace, the giant will wake up. It doesn't take a lot, it can be enough that a single person says "This is unacceptable".
 
   * An entire department of a large government agency has stuffed the bells in it's old-fashioned telephones with tissues. There is no loud ringing now - only a gentle purr of clicks (or is it the quiet voice of Holgar Dansk?)
-  * A California computer company has had a rash of guerilla attacks against the paging system in the programmer area. The wires keep getting cut. Because the are programmers seated in what used to be an assembly bay, the ceilings (and the paging system speakers) are 16 feet up in the air. Who can ever reach so high? Perhaps it was Holgar Dansk
+  * A California computer company has had a rash of guerrilla attacks against the paging system in the programmer area. The wires keep getting cut. Because the are programmers seated in what used to be an assembly bay, the ceilings (and the paging system speakers) are 16 feet up in the air. Who can ever reach so high? Perhaps it was Holgar Dansk
   * The manager of a large project in Minneapolis has refused to move his people to the new quarters. ("New" in this case meant smaller and noisier.) Administrators were simply stunned at his refusal; they had never considered the possibility. Working people are supposed to do as they're told. The manager had a different theory, that working people are supposed to do work. He had assembled enough evidence about the new environment to convince himself that they couldn't do that in the new workplace. So the proper function of the manager was to say no. If he had been all alone in taking this stand, it would have been easy to overrule him. But he wasn't alone, he had Holgar Dansk on his side. 
  
-> Sociology matters more than technology or even money. It's supposed to be productive, satisfying fun to work. If it isn't, then there's nothing else worth concetrating on. 
+> Sociology matters more than technology or even money. It's supposed to be productive, satisfying fun to work. If it isn't, then there's nothing else worth concentrating on. 
 
 
 Conclusion
 ==========
 
-This work is a priceless collection of advice distilled from years of working in the software industry - and it's applicable for any working environment of knowledge workers. Too often we get blindsighted with the technology aspect of managing people and forget to manage them as humans. 
+This work is a priceless collection of advice distilled from years of working in the software industry - and it's applicable for any working environment of knowledge workers. Too often we get blind sighted with the technology aspect of managing people and forget to manage them as humans. 
 
 The book should be mandatory reading for anyone who works in tech industry, regardless if they manage people or are managed by others. An enlightening, fun and educating read. 
 

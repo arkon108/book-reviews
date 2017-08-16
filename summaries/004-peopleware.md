@@ -72,7 +72,7 @@ The more intensely deadlined the project is, the more important is to have frequ
 
 >The project that has to be done by an impossible fixed date is the very one that can’t afford not to have frequent brainstorms and even a project dinner or some such affair to help the individual participants knit into an effective whole.
 
-###3. Vienna Waits for You
+### 3. Vienna Waits for You
 
 In almost a perverse way, managers seem to believe that making people work harder and longer is a sign of their success at team management
 

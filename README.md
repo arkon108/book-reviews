@@ -5,6 +5,7 @@ A collection of the book reviews/summaries
 2. [How to Stop Sucking and Be Awesome Instead, Jeff Atwood](summaries/002-how-to-stop-sucking-and-be-awesome-instead.md)
 3. [Soft Skills, John Z. Sonmez](summaries/003-soft-skills.md)
 4. [Peopleware, Tom DeMarco and Timothy Lister](summaries/004-peopleware.md)
+5. [Ego Is the Enemy, Ryan Holiday](summaries/005-ego-is-the-enemy.md)
 
 To Read
 ------

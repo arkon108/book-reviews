@@ -210,7 +210,7 @@ We are all suceptible to imagine ourselves being watched more closely than we ar
 
 ### The danger of early pride
 
-At age 18, young Benjamin Franklin returned to Boston, full of pride and self-satisfaction and a pocketfull of coins that he would show to everyone. When meeting Cotton Mather, one of the town's most respected figures he was chatting walking down the hallway and missed Cotton's warning to stoop, hitting his head into a low ceiling beam. Mather response was "Let this be a caution to you not always to hold your head so high"... "Stoop, young man, stoop— as you go through this world— and you’ll miss many hard thumps."
+At the tender age of 18, young Benjamin Franklin had returned to Boston, full of pride and self-satisfaction and a pocketfull of coins that he would show to everyone who was willing to indulge him. When meeting was Cotton Mather, one of the town's most respected figures, they walked down the hallway chatting. Franklin, completely self-absorbed had missed Cotton's warning to stoop, hitting his head into a low ceiling beam. Mather response was "Let this be a caution to you not always to hold your head so high"... "Stoop, young man, stoop— as you go through this world— and you’ll miss many hard thumps."
 
 Christians consider pride a sin, because it convinces people they are better than they are, deludes and distracts them. 
 
@@ -231,22 +231,24 @@ We all indulge in this self-congratulating behavior, and every culture has words
 
 > The childlike little prince in Saint-Exupéry’s famous story makes the same observation, lamenting that “vain men never hear anything but praise.” That’s exactly why we can’t afford to have it as a translator.<br><br>...As the famous conqueror and warrior Genghis Khan groomed his sons and generals to succeed him later in life, he repeatedly warned them, “If you can’t swallow your pride, you can’t lead.” He told them that pride would be harder to subdue than a wild lion. He liked the analogy of a mountain. He would say, “Even the tallest mountains have animals that, when they stand on it, are higher than the mountain.”
 
-We learn how to protect ourselves from negativity, people doubting us. But we rarely learn how to protect ourselves from things that makes us feel too good. We must prepare for pride and kill it before it kills what we aspire to. 
+We learn how to protect ourselves from negativity, people doubting us. But we rarely learn how to protect ourselves from *things that makes us feel too good*. We must prepare for pride and _kill it_. Stop it before _it_ kills what we aspire to. 
 
 > The question to ask, when you feel pride, then, is this: What am I missing right now that a more humble person might see? What am I avoiding, or running from, with my bluster, franticness, and embellishments? It is far better to ask and answer these questions now, with the stakes still low, than it will be later.
 
 
 ### Work, work, work
 
-The difference between a professional and a dilettante is in recognizing that having the idea is not enough - execution is everything. 
+The difference between a professional and a dilettante is in recognizing that having the idea is not enough - _execution is everything_. 
 
 > “You can’t build a reputation on what you’re going to do,” was how Henry Ford put it. The sculptor Nina Holton hit the same note in psychologist Mihaly Csikszentmihalyi’s landmark study on creativity. “That germ of an idea,” she told him, “does not make a sculpture which stands up. It just sits there. So the next stage, of course, is the hard work.”
 
-There's no specific point where you're done. There's no work until your big break. There's work forever and ever. 
+There's no specific point where you're done. There's no "work... but only until your *big break*". There's only work forever and ever-ever ever-ever... 
  
 > Is it ten thousand hours or twenty thousand hours to mastery? The answer is that it doesn’t matter. There is no end zone. To think of a number is to live in a conditional future. We’re simply talking about a lot of hours— that to get where we want to go isn’t about brilliance, but continual effort. While that’s not a terribly sexy idea, it should be an encouraging one. Because it means it’s all within reach— for all of us, provided we have the constitution and humbleness to be patient and the fortitude to put in the work. 
 
-Our ego wants the talk, the planning, the chatter to matter - work is hard, and we put in so much time in planning, surely it counts for something? We want the fruit of our labour now, without sacrifice, without effort. But if we don't earn it, we don't deserve it. Life doesn't give you what you want. It gives you what you deserve.
+Our ego wants the _talk_, the _planning_, the _chatter_ to matter. Work is hard, we complain. And we've put in *so much* time in planning, surely it counts for _something_? 
+
+We want the fruit of our labour now, without sacrifice, without effort. But if we don't earn it, we don't deserve it. Life doesn't give you what you want. It gives you what you deserve.
 
 > Work is finding yourself alone at the track when the weather kept everyone else indoors. Work is pushing through the pain and crappy first drafts and prototypes. It is ignoring whatever plaudits others are getting, and more importantly, ignoring whatever plaudits **you** may be getting. Because there is work to be done. Work doesn’t **want** to be good. It is made so, despite the headwind.
 
@@ -254,11 +256,11 @@ Our ego wants the talk, the planning, the chatter to matter - work is hard, and 
 
 We know we want to succeed, but we're afraid that staying humble will end up with us being stepped on, embarrased and subjugated.
 
-The internal debate about confidence calls to mind a well-known concept from the radio pioneer Ira Glass, which could be called the Taste/ Talent Gap. 
+The internal debate about confidence calls to mind a well-known concept from the radio pioneer Ira Glass, which could be called the Taste/Talent Gap. 
 
 > All of us who do creative work . . . we get into it because we have good taste. But it’s like there’s a gap, that for the first couple years that you’re making stuff, what you’re making isn’t so good . . . It’s really not that great. It’s trying to be good, it has ambition to be good, but it’s not quite that good. But your taste— the thing that got you into the game— your taste is still killer, and your taste is good enough that you can tell that what you’re making is kind of a disappointment to you.
 
-Who wants to look at their work and admit it doesn't measure up? Who can admit to themselves they're not as good as they want to be? We can cover our shortcomings with passion or see clearly where we're talented and where we can improve. 
+Who wants to look at their work and admit that _it doesn't quite measure up_? Who can admit to themselves they're not _as good_ as they want to be? We can cover our shortcomings with passion or try to clearly see where we're talented and where we can improve. 
 
 > Of course, what is truly ambitious is to face life and proceed with quiet confidence in spite of the distractions. Let others grasp at crutches. It will be a lonely fight to be real, to say “I’m not going to take the edge off.” To say, “I am going to be myself, the best version of that self. I am in this for the long game, no matter how brutal it might be.”<br><br> To do, not be.
 
@@ -274,21 +276,21 @@ Even though Howard Hughes is seen as a great visionary and business wizard, beca
 
 After purchasing control in his father's company he left Houston for good, moved to Los Angeles where he decided to become a film producer and a celebrity. He lost $8 million trading stocks from his bed, before the Depression. His most well known movie, "Hell's Angels" took three years, and lost $1.5 million on a budget of $4.2 million. And then he lost another $4 million on Chrysler stock. Afterwards he created Hughes Aircraft Company, which also was a failure, despite his amazing achievements as an inventor. The plane he designed and called _Hercules_, one of the biggest planes ever made took over five years to develop, cost $20 million and flew only once, less than a mile far. Doubling down on movie business, Hughes purchased the RKO studio and created losses of over $22 million. 
 
-There's way way more, but important thing to note is that what made him restrain himself was the fear of public exposure. 
+There's way way more, but one important thing to note is that _the only single thing which made him restrain himself_ was the *fear of public exposure*. 
 
 > “That we have made a hero out of Howard Hughes,” a young Joan Didion wrote, “tells us something interesting about ourselves.” She’s absolutely right. For Howard Hughes, despite his reputation, was quite possibly one of the worst businessmen of the twentieth century.
 
-Ego drove Hughes into a deep and devastating darkness. It was his demise as much as the injuries he sustained. Because of wealth he inherited, he never had to stop and check himself. 
+Ego drove Howard Hughes into a deep and devastating darkness. It was his spiritual demise, debilitating as much as the injuries he had sustained. Because of the wealth he inherited, he had never had to _stop and check himself_. 
 
 > Success is intoxicating, yet to sustain it requires sobriety. We can’t keep learning if we think we already know everything. We cannot buy into myths we make ourselves, or the noise and chatter of the outside world.
 
 ### Always stay a student
 
-Today, Genghis Khan is remembered as a ruthless leader of blodthirsty Mongols, pillaging and destroying everything in their path and leaving nothing for history to benefit it. The truth is starkly different. Genghis Khan was the greatest conqueror because he never stopped learning. 
+Today, Genghis Khan is remembered as a ruthless leader of bloodthirsty Mongolian invaders, pillaging and destroying everything in their path and leaving nothing behind. The truth is starkly different. Genghis Khan was the greatest conqueror because he _had never stopped learning_. 
 
 > Under Genghis Khan’s direction, the Mongols were as ruthless about stealing and absorbing the best of each culture they encountered as they were about conquest itself.
 
-He first learned to organized his troops in squads of ten from Turkic people, later, with the help of Chinese engineers, he taught his soldiers how to build siege machines which could knock down city walls. 
+First he learned to organized his troops in squads of ten - from Turkic people, later, with the help of Chinese engineers, he taught his soldiers how to build siege machines which could knock down city walls. 
 
 > By working with the scholars and royal family of the lands he conquered, Khan was able to hold on to and manage these territories in ways that most empires could not. Afterward, in every country or city he held, Khan would call for the smartest astrologers, scribes, doctors, thinkers, and advisers— anyone who could aid his troops and their efforts. His troops traveled with interrogators and translators for precisely this purpose.
 
@@ -310,7 +312,7 @@ Starting in 1979, Bill Walsh took the 49ers from being the worst team in footbal
 
 When he took over, he wasn't focused on winning as such, he worked to implement what he called _Standard of Performance_ - **what** should be done, **when** and **how**. He focused on seemingly trivial details - no sitting down on the practice field, coaches had to wear tucked in shirts and ties, everyone had to give maximum effort and commitment, locker rooms needed to be neat and clean. No smoking, no fighting, no profanity. Practices were scheduled down to a minute. 
 
-This wasn't about control - it was about instilling excellence. In his eyes, if the players can take care of the details, the score would take care of itself. He was humble enough to know he couldn't predict when the victory would happen. 
+This wasn't about control - it was about _instilling excellence_. In his eyes, if the players can take care of the details, _the score would take care of itself_. He was humble enough to know he couldn't predict when the victory would happen. 
 
 > We want so desperately to believe that those who have great empires set out to build one. Why? So we can indulge in the pleasurable planning of ours. So we can take full credit for the good that happens and the riches and respect that come our way. Narrative is when you look back at an improbable or unlikely path to your success and say: I knew it all along. Instead of: I hoped. I worked. I got some good breaks.
 
@@ -366,34 +368,36 @@ Naturally, we end up believing we shape our reality, that we're somehow better, 
 
 > If you’ve ever listened to the Oval Office tapes of Richard Nixon, you can hear the same sickness, and you wish someone could have sent him such a letter. It’s a harrowing insight into a man who has lost his grip not just on what he is legally allowed to do, on what his job was (to serve the people), but on reality itself. He vacillates wildly from supreme confidence to dread and fear. He talks over his subordinates and rejects information and feedback that challenges what he wants to believe. He lives in a bubble in which no one can say no — not even his conscience.
 
-Even talented, smart and brave people hurt themselves and the ones they love when they lost perspective of limits to their own power and reach.
+Even the talented, smart, and brave people hurt themselves and the ones they love, when they lose the perspective of _limits to their own power and reach_.
 
-> “He who indulges empty fears earns himself real fears,” wrote Seneca, who as a political adviser witnessed destructive paranoia at the highest levels.<br><br>The sad feedback loop is that the relentless “looking out for number one” can encourage other people to undermine and fight us. They see that behavior for what it really is: a mask for weakness, insecurity, and instability. In its frenzy to protect itself, paranoia creates the persecution it seeks to avoid, making the owner a prisoner of its own delusions and chaos.
+> “*He who indulges empty fears earns himself real fears*,” wrote Seneca, who as a political adviser witnessed destructive paranoia at the highest levels.<br><br>The sad feedback loop is that the relentless “looking out for number one” can encourage other people to undermine and fight us. They see that behavior for what it really is: a mask for weakness, insecurity, and instability. In its frenzy to protect itself, paranoia creates the persecution it seeks to avoid, making the owner a prisoner of its own delusions and chaos.
 
 ### Managing Yourself
-After Dwight D. Eisenhower got inaugurated, upon entering the White House, his chief usher handed him two envelopes with "Confidential and Secret". The President told him "Never bring me a sealed envelope. That's what I have a staff for." 
+After Dwight D. Eisenhower got inaugurated, upon entering the White House, his chief usher handed him two envelopes with the labels "Confidential and Secret". The President told him "Never bring me a sealed envelope. That's what I have a staff for." 
 
 It's not snobbish, coming from a military background, Eisenhower recognized a disfunctional organisation.
 
 > The public image of Eisenhower is of the man playing golf. In reality, he was not someone who ever slacked off, but the leisure time he did have was available because he ran a tight ship. He knew that urgent and important were not synonyms. His job was to set the priorities, to think big picture, and then trust the people beneath him to do the jobs they were hired for.
 
-While we're aspiring or small time, we can sometimes make up by hard work and some luck, but going up, that's not going to cut it. It's important to grow up organize yourself.
+While we're aspiring or small time, we can sometimes make up by hard work and some luck. Going up, however, that's not going to cut it. It's important to grow up to organize yourself.
 
-Contrasted is the story about DeLorean who quit GM where he felt like a misunderstood genius, proceeding to create a "completely different" company, ditching conventional wisdom and business practices. End result, instead of free-thinking high-tech sanctuary, was overbearingly political, dysfunctional and corrupt organization, ending up in fraud and losses of some $250 million. 
+Contrasted to the efficiency which Eisenhower understood, is the story about DeLorean who quit GM where he felt like a _misunderstood genius_, and proceeded to create a "completely different" company, ditching conventional wisdom and business practices. The end result, instead of free-thinking high-tech sanctuary, was overbearingly political, dysfunctional and corrupt organization, ending up with the embarrasing fraud and losses of some $250 million. 
 
-He worked probably more than Eisenhower but with very different results. 
+He worked probably _more_ than Eisenhower but with _very different_ results. 
 
 > Though probably not on purpose, DeLorean created a culture in which ego ran free. Convinced that continued success was simply his by right, he seemed to bristle at concepts like discipline, organization, or strategic planning. Employees were not given enough direction, and then at other times, overwhelmed with trivial instructions. DeLorean couldn’t delegate— except to lackeys whose blind loyalty was prized over competence or skill. On top of all this, he was often late or preoccupied.
 
-Since DeLorean couldn't manage himself, he couldn't manage others so he managed to fail, himself and his dream. In the end, we become the adult supervision we used to rebel against, but we often petulently think that, with us now in charge, things are going to be different. 
+Since DeLorean couldn't manage himself, he couldn't manage others so _he managed to fail_, himself and his dream. In the end, _we become_ the adult supervision we used to rebel against, but we often petulently think that, with us now in charge, _things are going to be different_. 
 
-The DeLorean had the vision and the knowledge to make his dream car a reality, and it could've worked if it wasn't for his disorganisation. He knew how to work, but he didn't know how to lead. As responsibilities change, it often happens that most time is spent making decisions instead of working. It means putting away some satisfying parts of our previous job and accepting that others might be more qualified or specialized for the work that needs to be done. 
+The DeLorean had the *vision* and the *knowledge* to make his dream car a reality, and it could've worked if it wasn't for his *disorganisation*. He knew how to work, but he didn't know how to _lead_. As responsibilities change, it often happens that most time is spent _making decisions_ instead of working. 
+
+It means _putting away_ some satisfying parts of our previous job and _accepting_ that others might be more qualified or specialized for the work that needs to be done. 
  
 > Responsibility requires a readjustment and then _increased_ clarity and purpose. First, setting the top-level goals and priorities of the organization and your life. Then enforcing and observing them. To produce results and only results.
 > A fish stinks from the head, is the saying. Well, you're the head now.
 
 ### Beware The Disease Of Me
-Pat Riley (LA Lakers and Miami Heat coach and manager) says there's a trajectory great teams follow. Before they win, they're innocent. If they work well together towards the common goal, they enter the "Innocent Climb".
+Pat Riley (*L.A. Lakers* & *Miami Heat* coach and manager) says there's a trajectory which the great teams follow. Before they win, they're innocent. If they work well together towards the common goal, they enter the "Innocent Climb".
 
 After winning and attracting attention of the media, egos pop up. Players calculate their own importance, frustrations emerge, and often the "Disease of Me" follows. Like Shaq and Kobe not able to play together, Jordan punching several team members of _his own team_, Enron people plunging California into darkness for profit and so on. 
 
@@ -407,20 +411,20 @@ Early in the career we can sometimes gloss over the lack of recognition but as w
 ### Meditate On The Immensity
 > A monk is a man who is separated from all and who is in harmony with all.<br><br>~	Evagrius Ponticus
 
-Chapter starts with John Muir's description of a moment from his trip to Alaska in 1879, a powerful feeling of entire world being in sync. Stoics would call it _sympatheia_ - connectedness to the cosmos. A sense of belonging to something larger, realising that "human beings are an infinitesimal point in the immensity".
+Chapter starts with John Muir's description of a moment from his trip to Alaska in 1879, where he witnessed an immensely powerful feeling of the entire _world being in sync_. Stoics would call it _sympatheia_ - connectedness to the cosmos. A sense of belonging to something larger, realising that "human beings are an infinitesimal point in the immensity".
 
 In these moments we are drawn to important questions like "Who am I? What am I doing? What is my role in the world?". What drives us furthest from these questions is often material success - when we're busy, distracted, reported to, wealthy or told we're important and powerful. Ego tells us that being the center of attention is the only way to matter.
 
 > When we lack a connection to anything larger or bigger than us, it's like a piece of our soul is gone. (...) Ego blocks us from the beauty and history in the world. It stands in the way.
 <br><br>No wonder we find success empty. 
 
-Visit a ancient battlefield or a place of historical significance and imagine the people witnessing the events. In those moments it's possible to sense the immensity of the world. Ego is impossible, at least fleetingly as we realise what Emerson meant when he said that "Every man is a quotation from all his ancestors.". We should embrace this and learn from our history and tradition.
+Visit a ancient battlefield or a place of historical significance and imagine the people witnessing the events. In those moments it's possible to sense the immensity of the world. Ego is impossible to survive such immensity, however fleetingly we get to merge with it. And we might realise what Emerson meant, when he said how "Every man is a quotation from all his ancestors.". We should embrace this and learn from our history and tradition.
 
 It's a duality of being very small and irrelevant to the cosmos, but also being big as a part and a process of the same cosmos.
 
 > Why do you think that great leaders and thinkers throughout history have "gone out into the wilderness" and come back with inspiration, with a plan, with an experience that puts them on a course that changes the world? It’s because in doing so they found perspective, they understood the larger picture in a way that wasn’t possible in the bustle of everyday life.<br><br>By removing the ego - even temporarily - we can access what's left standing in relief. By widening our perspective, more comes into view. 
 
-When you start feeling better than or bigger than, reconcile yourself better with the realities of life, go and put yourself into the touch with the infinite. 
+When you start feeling better than or bigger than, reconcile yourself more intimately with the realities of life, go and put yourself into the touch with the infinite. 
 
 
 ### Maintain Your Sobriety
@@ -428,7 +432,7 @@ The author tells how much success of Angela Merkel comes from her being _sober_,
 
 We often think people succeed through enthusiasm and sheer energy, we assume ego is important in "making it big". The problem is that running based on ego isn't sustainable. Ego tells us we're invincible and unstoppable.
 
-Merkel, as a powerful leader, is an embodiment of the tortoise from the fable. The night Berlin Wall fell she was thirty five, she had one beer, went to bed and showed up early for work the next day. After working to become a respected, albeit obscure physicist for several years, she only then entered politics. She become a chancellor in her fifties, after a diligent, plodding path. 
+Merkel, as a powerful leader, is an embodiment of the tortoise from the fable. The night Berlin Wall fell she was thirty five, she had one beer, went to bed and showed up early for work the next day. After working to become a respected, albeit obscure physicist for several years, she only then entered politics. She became a chancellor in her fifties, after a diligent, plodding path. 
 
 Most of us don't have the patience for waiting. We want to get there as fast as possible. 
 
@@ -447,7 +451,7 @@ Once we arrive at the success we see how it's a different beast to manage than w
 
 Napoleon, who not only died miserably, but as Europe ended up pretty much the same after his death as it was before him, caused much greed, deaths, honors and effort in vain, said - "Men of great ambition have sought happiness... and have found fame." 
 
-No not follow in footsteps of great but sadly deluded men we need to protect our sobriety, avoid greed and paranoia, stay humble while retaining our sense of purpose and connect to the larger world around us. 
+To not follow in footsteps of great but sadly deluded men we need to protect our sobriety, avoid greed and paranoia, stay humble while retaining our sense of purpose and connect to the larger world around us. 
 
 Failures, reversals and regressions are a part of life just as everything else, so instead of being in denial about the facts of life, it's better we spend our time preparing for inevitable shifts in life. Adversity, difficulty and failure. 
 
@@ -455,17 +459,17 @@ Failures, reversals and regressions are a part of life just as everything else, 
 
 Part III - Failure
 -------
-It happens to everyone at some times, trials, setbacks and failures are a part of life. But where ego can be a nasty side effect of success, in failure it can be fatal. 
+It happens to everyone at some times, trials, setbacks and failures are a part of life. But where ego can be a nasty side effect of success, in failure _it can be fatal_. 
 
 > The reality is that while yes, often people set themselves up to crash, good people fail (or other people fail them) all the time too. People who have already been through a lot find themselves stuck with more. Life isn’t fair. Ego loves this notion, the idea that something is “fair” or not. Psychologists call it narcissistic injury when we take personally totally indifferent and objective events. We do that when our sense of self is fragile and dependent on life going our way all the time. Whether what you’re going through is your fault or your problem doesn’t matter, because it’s yours to deal with right now.
 
-Humble and strong people have less trouble going through difficult times than egotists - their identity isn't threatened and they get by without constant validation. As Plutarch said - "The future bears down upon each one of us with all the hazards of the unknown", the only way is through.
+Humble and strong people have less trouble going through difficult times than egotists - their identity isn't threatened and they get by without constant validation. As Plutarch said - "The future bears down upon each one of us with all the hazards of the unknown". _The only way is through_.
 
 	
 ### Alive Time Or Dead Time?
-Malcolm X was a criminal, and in February 1946, he got ten years for trying to fence a watch he has stolen, at barely 21 years old. They found evidence of his criminal activities, so no doubt he deserved to go to jail, so he did, and there faced what Robert Greene called "Alive Time or Dead Time" scenario. Dead time is when people are passive and waiting, and alive time when they are learning, acting and using every second of their time. 
+When in February of 1946 Malcolm-X got 10 years in jail, he faced what Robert Greene called _"Alive Time or Dead Time"_ life scenario. _Dead time_ is when people are passive and waiting, and _alive time_ when they are learning, acting and using every second of their time. 
 
-Malcolm chose Alive Time and spent his time learning. He taught himself how to be a reader by lending out a dictionary and not just read it, but copied it longhand from cover to cover. He read politics, sociology, philosophy. Many people know what he did after the prison, but they don't understand how the combination of acceptance, humility and strength contributed to the transformation. 
+Malcolm chose Alive Time and spent his time learning. He taught himself how to be a reader by lending out a dictionary and had not just read it, but copied it longhand from cover to cover. He had read politics, sociology, philosophy. Many people know what he did after the prison, but they don't understand how the combination of acceptance, humility and strength had contributed to the transformation. 
 
 > In life, we all get stuck with dead time. It's occurrence isn't in out control. It's use, on the other hand, is. <br>Don't let stubborness make a bad situation worse.
 
@@ -475,7 +479,7 @@ Belisarius, one of the most capable military leaders, barely known today, who se
 
 > In his eyes, he was just doing his job— one he believed was his sacred duty. He knew that he did it well. He knew he had done what was right. That was enough.<br><br> In life, there will be times when we do everything right, perhaps even perfectly. Yet the results will somehow be negative: failure, disrespect, jealousy, or even a resounding yawn from the world.
 
-The result can be crushing to the ego. It strikes it as unfair. But we only have minimal control over rewards and recognition we get for our efforts. Are we going to stop working hard because we're not being recognized enough? 
+The result can be crushing to the ego. It strikes it as unfair. But we only have minimal control over rewards and recognition we get for our efforts. _Are we going to stop working hard because we're not being recognized enough?_
 
 It's far better when we're not attached to the outcomes. When putting in honest effort is enough, not the results, good or bad.  
 
@@ -525,37 +529,41 @@ When ego is in control, it's difficult to see the big picture. And it's importan
 
 ### Maintain Your Own Scorecard
 
-You are *NOT* as good as you think - you haven't got it all figured out, you need to keep focused and do better. By having their own set of standards, which exceed the society's standard - that's how great people think. That's why they don't care much for the recognition of the society. They only care about meeting their own standards. 
+You are *NOT* as good as you think - you haven't got it all figured out, you need to keep focused and do better. By having their own set of standards, which exceed the society's standards - that's how great people live. That's why they don't care much for the recognition of the society. For the fanfare and spotlights. They only care about meeting _their own standards_. 
 
-Ego can't see both sides - it can only see the things going well. 
+Ego can't see _both_ sides - it can only see the things going well. 
 
-> Your potential, the absolute best you’re capable of— that’s the metric to measure yourself against. Your standards are. Winning is not enough. People can get lucky and win. People can be assholes and win. Anyone can win. But not everyone is the best possible version of themselves.<br><br>Harsh, yes. The flip side is that it means being honestly able to be proud and strong during the occasional defeat as well. When you take ego out of the equation, other people’s opinions and external markers won’t matter as much. That’s more difficult, but ultimately a formula for resilience.
+> Your potential, the absolute best you’re capable of— that’s the metric to measure yourself against. Winning is not enough. People can get lucky and win. People can be assholes and win. Anyone can win. But not everyone is the best possible version of themselves.<br><br>Harsh, yes. The flip side is that it means being honestly able to be proud and strong during the occasional defeat as well. When you take ego out of the equation, other people’s opinions and external markers won’t matter as much. That’s more difficult, but ultimately a formula for resilience.
 
 Adam Smith advised we keep the outlook of the "indifferent spectator", especially early in our endeavour, when we'd rather enjoy the thunderous applause the society would give us. 
 
-When you start thinking how "no one will know", the moral gray area ego loves so much (think of CEOs, politicians and bankers with their _not technically illegal_ behavior).  Holding your ego against a standard makes it less likely you'd do any wrongdoing. 
+When we start thinking how "no one will know", like many CEOs, politicians and bankers with their _not technically illegal_ behavior like to think, we wander into the dangerous gray territory.  Holding your ego against a standard makes it less likely you'd do any wrongdoing. 
 
 > Because it’s not about what you can get away with, it’s about what you should or shouldn’t do.
 
-When you keep your eyes on long-term, you're not swayed away by the spotlights, or deterred during the short-term setbacks. To keep improving, we need to smash our ego with continually higher standards. 
+When you keep your eyes on long-term perspective, when you understand the bigger picture, you do not get easily lured away by the spotlights and vanity. You don't get  disheartened during the short-term setbacks. 
+
+To keep improving, we need to _keep smashing_ our ego with continually higher standards of our own. 
 
 ### Always Love
 
 > And why should we feel anger at the world? As if the world would notice! <br>—EURIPIDES
 
-Hate and anger come from ego, and ironically, what we fear and hate - we strenghthen that way. Trying to destroy something out of ego, often ensures it becomes more permanent.
+Hate and anger come from ego, and ironically, what we fear and hate - we strenghthen by resisting it. Trying to destroy something out of ego, often ensures it becomes more permanent.
 
 > Thus, the paradox of hate and bitterness. It accomplishes almost exactly the opposite of what we hope it does. In the Internet age, we call this the Streisand effect (named after a similar attempt by the singer and actress Barbra Streisand, who tried to legally remove a photo of her home from the Web. Her actions backfired and far more people saw it than would have had she left the issue alone.) Attempting to destroy something out of hate or ego often ensures that it will be preserved and disseminated forever.
 
-And to continue the paradox - the right response is love. Even to things that annoy us. And as we become more successful, there will be more things we care about. More ways others _could disrespect us_. And if we're not careful we can get lost defending what's precious to our ego. How many countless lives and beauty was lost out of reasons who hardly anyone remembers by angry men and aggrieved women. Out of slight. Out of offence. Out of ego. 
+And to continue the paradox - the right response is _always_ love. Even to things that annoy us. And as we become more successful, there will be more things we care about. More ways others _could disrespect us_. And if we're not careful we can get lost defending what's precious to our ego. How many countless lives and beauty was lost out of reasons who hardly anyone remembers now, by angry men and aggrieved women? Out of slight. Out of embarassement. Out of ego. 
 
 > You know what is a better response to an attack or a slight or something you don't like? Love. That's right, _love_. For the neighbor who won't turn down the music. For the parent who let you down. For the bureaucrat who lost your paperwork. For the group that rejects you. For the critic who attacks you. The former partner who stole your business idea. The bitch or bastard who cheated on you. Love.
 
-Now, loving might be too difficult, but at least try to laugh, shake it off and move on. You don't want to become just another self-absorbed person too sensitive to any criticism or rumor. Don't turn minor inconveniances into massive sores. 
+Now, loving might be too difficult, but at least try to laugh, shake it off and move on. You don't want to become just another self-absorbed narcissist, too sensitive to stand any criticism or rumor. Don't turn minor inconveniances into massive sores. You will only end up hurting yourself.
 
 Just like the path which Richard Nixon took first forward and then downward - he did more damage to himself than anyone else could've done. Not even the "leader of free world" is immune to hate, bitterness and paranoia. 
 
-It's easier to lash out, to get angry, frustrated and hateful. But love liberates, and hate suffocates. What helped many great leaders is how they looked upon their enemies with pity and empathy. When Frederick Douglass was asked to move to baggage car because of his race and a white supporter apologized to him, the responce from Douglass was:
+It's easier to lash out, to get angry, frustrated and hateful. But loving _liberates_, and hate _suffocates_. What has helped many great leaders is the way they looked at their enemies, not with hate and frustration, but with _pity and empathy_. 
+
+Once, when Frederick Douglass was asked to move to baggage car because of his race, and a white supporter was apologizing to him, the responce Douglass had was:
 
 > They cannot degrade Frederick Douglass. The soul that is within me no man can degrade. I am not the one that is being degraded on account of this treatment, but those who are inflicting it upon me.
 
@@ -563,7 +571,9 @@ What we need to ask ourselves is
 
 > Are we going to be miserable just because other people are?
 
-Why? The very traits that pissed us off in other people, dishonesty, selfishness, laziness -- they aren't going to work out well for those people in the end anyway. When Orson Welles died, his long-term girlfriend said in his eulogy, referring to the _lifetime_ of obstructions and insults he received in a particularly ruthless industry - *"I promise it didn't make him bitter"*. The obsession with the past, how _they did you wrong_ is ego embodied. Everyone else moved on but you haven't.
+*Why would we be?* 
+
+The very traits that pissed us off in other people, dishonesty, selfishness, laziness -- they aren't going to work out well for those people in the end anyway. When Orson Welles died, his long-term girlfriend said in his eulogy, referring to the _lifetime_ of obstructions and insults he received in a particularly ruthless industry - *"I promise it didn't make him bitter"*. The obsession with the past, how _they did you wrong_ is ego embodied. Everyone else moved on but you haven't.
 
 Hate also puts blame on someone else, so it's easy to do in the times of adversity. Fear and hate rob us of our strength, tarnishes our reputation and takes the best away from us. And love is right here, all the time - egoless, free, positive, open, peaceful, vulnerable, understanding, joyful and productive.
 

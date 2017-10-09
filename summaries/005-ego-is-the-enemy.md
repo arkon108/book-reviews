@@ -3,6 +3,8 @@ Ego Is the Enemy
 
 Published 2016, [ISBN 9780698192157](https://encrypted.google.com/search?q=isbn+9780698192157), 227 pages
 
+[Official Web Site](http://egoistheenemy.com)
+
 [Amazon](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818/) | [Goodreads](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy)
 
 Author
@@ -12,7 +14,7 @@ Born Jun 16, 1987, [Ryan Holiday](https://en.wikipedia.org/wiki/Ryan_Holiday) is
 
 Introduction
 ============
-Just around the time I was researching what constitutes a person's ego and how to work with it, I saw several thoughtful quotes taken from this book. So I went to purchase the book after reading several reviews and finding them positive. The author seemed as a person who could speak from personal experience, getting through a wild success early in life. This fast success overly inflated their ego, and then crushed it after he has seen the very same people he came to admire, succumb to the poisons of egotism<sup>[1](#footnote1)<a name="f1"></a></sup>
+Just around the time I was researching what constitutes a person's ego and how to work with it, I saw several thoughtful quotes taken from this book. So I went to purchase the book after reading several reviews and finding them positive. The author seemed as a person who could speak from personal experience, getting through a wild success early in life. This fast success overly inflated their ego, and then crushed it after he has seen the very same people he came to admire, succumb to the poisons of egotism<sup>[1](#footnote1)<a name="f1"></a></sup>.
 
 > With success comes the temptation to <b>tell oneself a story</b>, to round off the edges, to cut out your lucky breaks and add a certain mythology to it all.<br><br> You know, that arcing narrative of Herculean struggle for greatness against all odds: sleeping on the floor, being disowned by my parents, suffering for my ambition. It’s a type of storytelling in which eventually your talent becomes your identity and your accomplishments become your worth. <br><br> But a story like this is never honest or helpful.
 
@@ -561,7 +563,7 @@ Now, loving might be too difficult, but at least try to laugh, shake it off and 
 
 Just like the path which Richard Nixon took first forward and then downward - he did more damage to himself than anyone else could've done. Not even the "leader of free world" is immune to hate, bitterness and paranoia. 
 
-It's easier to lash out, to get angry, frustrated and hateful. But loving _liberates_, and hate _suffocates_. What has helped many great leaders is the way they looked at their enemies, not with hate and frustration, but with _pity and empathy_. 
+It's easier to lash out, to get angry, frustrated and hateful. But loving _liberates_, and hate _suffocates_. What has helped many great leaders is the way they looked at their enemies, not with hate and frustration, but with _pity and empathy_<sup>[3](#footnote3)<a name="f3"></a></sup>. 
 
 Once, when Frederick Douglass was asked to move to baggage car because of his race, and a white supporter was apologizing to him, the responce Douglass had was:
 
@@ -621,32 +623,25 @@ The potential and motivation we feel are healthy and worthy aims. It is the ego 
 
 Conclusion
 ==========
-Your conclusion should wrap up by reviewing the main points of the book and giving your opinion of the book. Did you like it? Was it enjoyable? Do you agree with the author’s ideas or ways of writing? Did you learn something you didn’t know before? Explain your reasons for your reaction, using examples to support your claims.
 
-Questions to ask myself:
+It took me too long to finish writing this book summary. In the months during which I'd come back to writing it, I went through several of the more serious life adversities (divorce being the first one) but also found success in other aspirations, and pushed through the periods of failure. Which all made me appreciate the material in this book even more - there was great value in re-reading it. 
 
-*  Is the title accurate and fit the knowledge level of the material presented? 
-* What level of experience is needed to effectively use the book? 
-* What are the key strengths and weaknesses of the book?
-* Who will find the book most useful?
-* Is the book technically accurate?
-* How clearly is the material presented?
-* Are the tables, figures / illustrations appropriate and well executed?  
-* Is the depth appropriate for the stated audience?
-* Is the material new or present a different approach, or is it a rehash of existing texts?
+The ego from this book, in a way, has many similarities with the Resistance, which is covered in "War of Art". Both of them will rob us of our best work, prevent us from achieving most of our potential and the world would be poorer for it. 
 
-Imagine your conclusion as a way of telling others whether they should read the book or not. Would they enjoy it? Should they read it? Why or why not?
+The bad things aren't many, just that most of the book is comprised of the quotes and anecdotes (which this summary mirrors as a consequence), but considering how the author humbly admits that many of his ideas came from giants on whose shoulders stood, it can be forgiven :) 
+
+"All that's worth doing, is worth doing well" is a saying I like repeating to myself and others. If we're to produce quality work, we need to sweep our ego away every day. If we're to improve ourselves, we need best tools available. And Ryan Holiday gave us a vacuum-cleaner to sweep. If you care about public recognition more than the quality of your work - do yourself a favor and read "Ego is the Enemy". 
 
 
 
 Bibliography and Resources
 ==========================
-* List the books that the author recommends or mentions
-* Don't bother copying entire References/Literature section from the book
-* Link code examples or repositories
-* Blogs, websites, apps
+The author initially wrote an enormous bibliography section, which was trimmed for the published book, and the extended bibliography is available at [the official website](http://egoistheenemy.com/books/). 
+
+
 
 <br>
 <hr>
-<sub><sup><a name="footnote1"></a><a href="#f1">1.</a> Egotism - the practice of talking and thinking about oneself excessively because of an undue sense of self-importance.</sup></sub>  
-<sub><sup><a name="footnote2"></a><a href="#f2">2.</a>A person I know used to say "Who talks a lot, does little"</sup></sub>
+<sub><sup><a name="footnote1"></a><a href="#f1">1.</a> Egotism - the practice of talking and thinking about oneself excessively because of an undue sense of self-importance.</sup></sub><br><br>
+<sub><sup><a name="footnote2"></a><a href="#f2">2.</a> Someone I know used to say *"Who talks a lot, does little"*</sup></sub><br><br>
+<sub><sup><a name="footnote3"></a><a href="#f3">3.</a>David Foster Wallace talks more subtle aspects of this perspective in his "[This Is Water](https://vimeo.com/188418265)"

@@ -12,6 +12,45 @@ Author
 Born Jun 16, 1987, [Ryan Holiday](https://en.wikipedia.org/wiki/Ryan_Holiday) is a media strategist who dropped out of college at age of 19, he advised best-selling authors and multi-platinum musicians. He worked as a Director of Marketing at American Apparel, and is currently a media columnist and editor-at-large at New York Observer. He also worked with Tucker Max and Robert Greene (author of "48 Laws of Power").
 
 
+TOC
+===
+*   [Introduction](#introduction)
+*   [Summary](#summary)
+  * [Part I - Aspire](#part-i---aspire)
+    * [Talk talk talk](#talk-talk-talk)
+    * [To Be or To Do?](#to-be-or-to-do)
+    * [Become a student](#become-a-student)
+    * [Don't be passionate](#dont-be-passionate)
+    * [Follow the canvas strategy](#follow-the-canvas-strategy)
+    * [Restrain yourself](#restrain-yourself)
+    * [Get out of your own head](#get-out-of-your-own-head)
+    * [The danger of early pride](#the-danger-of-early-pride)
+    * [Work, work, work](#work-work-work)
+    * [For everything that comes next, ego is the enemy...](#for-everything-that-comes-next-ego-is-the-enemy)
+*  [Part II - Success](#part-ii---success)
+    * [Always stay a student](#always-stay-a-student)
+    * [Don't tell yourself a story](#dont-tell-yourself-a-story)
+    * [What's important to you?](#whats-important-to-you)
+    * [Entitlement, Control and Paranoia](#entitlement-control-and-paranoia)
+    * [Managing Yourself](#managing-yourself)
+    * [Beware The Disease Of Me](#beware-the-disease-of-me)
+    * [Meditate On The Immensity](#meditate-on-the-immensity)
+    * [Maintain Your Sobriety](#maintain-your-sobriety)
+    * [For What Often Comes Next, Ego Is The Enemy](#for-what-often-comes-next-ego-is-the-enemy)
+  *  [Part III - Failure](#part-iii---failure)
+    * [Alive Time Or Dead Time?](#alive-time-or-dead-time)
+    * [The Effort Is Enough](#the-effort-is-enough)
+    * [Fight Club Moments](#fight-club-moments)
+    * [Draw The Line](#draw-the-line)
+    * [Maintain Your Own Scorecard](#maintain-your-own-scorecard)
+    * [Always Love](#always-love)
+    * [For Everything That Comes Next, Ego Is The Enemy](#for-everything-that-comes-next-ego-is-the-enemy-1)
+  *  [Epilogue](#epilogue)
+*   [Conclusion](#conclusion)
+*   [Bibliography and Resources](#bibliography-and-resources)
+
+
+
 Introduction
 ============
 Just around the time I was researching what constitutes a person's ego and how to work with it, I saw several thoughtful quotes taken from this book. So I went to purchase the book after reading several reviews and finding them positive. The author seemed as a person who could speak from personal experience, getting through a wild success early in life. This fast success overly inflated their ego, and then crushed it after he has seen the very same people he came to admire, succumb to the poisons of egotism<sup>[1](#footnote1)<a name="f1"></a></sup>.

@@ -13,13 +13,13 @@ To Read
 * Code Complete
 * Javascript Application Design
 * Big Data
-* The Pragmatic Programmer
+* ~The Pragmatic Programmer~
 * Clojure Programming
-* The Joy Of Clojure
+* ~The Joy Of Clojure~
 * Clojure For Machine Learning
 
 ###Workplace
-* Peopleware
+* ~Peopleware~
 * The Inmates Are Running The Asylum
 * Mythical Man Month
 
@@ -27,10 +27,10 @@ To Read
 * [Drive](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates-ebook/dp/B004P1JDJO) [Goodreads](https://www.goodreads.com/book/show/6452796-drive)
 * [How to Talk So Kids Will Listen & Listen So Kids Will Talk](http://www.amazon.com/How-Talk-Kids-Will-Listen/dp/1451663889) [Goodreads](https://www.goodreads.com/book/show/769016.How_to_Talk_So_Kids_Will_Listen_Listen_So_Kids_Will_Talk)
 * [10-Minute Digital Declutter: The Simple Habit to Eliminate Technology Overload](http://www.amazon.com/10-Minute-Digital-Declutter-Eliminate-Technology-ebook/dp/B017TF4OOG/) [Goodreads](https://www.goodreads.com/book/show/28155974-10-minute-digital-declutter)
-* Beyond Training
+* ~Beyond Training~
 * The Big Leap
 * Think Like a Freak
-* Deep Nutrition
+* ~Deep Nutrition~
 
 
 
@@ -41,9 +41,9 @@ To Read
 
 
 ###Science
-* Wider Than The Sky
+* ~Wider Than The Sky~
 
 
 ###History
-* Sea Wolves: A History of the Vikings
+* ~Sea Wolves: A History of the Vikings~
 * Bushido, the Soul of Japan

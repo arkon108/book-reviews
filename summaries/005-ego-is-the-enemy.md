@@ -528,7 +528,49 @@ When ego is in control, it's difficult to see the big picture. And it's importan
 
 ### Maintain Your Own Scorecard
 
+You are *NOT* as good as you think - you haven't got it all figured out, you need to keep focused and do better. By having their own set of standards, which exceed the society's standard - that's how great people think. That's why they don't care much for the recognition of the society. They only care about meeting their own standards. 
+
+Ego can't see both sides - it can only see the things going well. 
+
+> Your potential, the absolute best you’re capable of— that’s the metric to measure yourself against. Your standards are. Winning is not enough. People can get lucky and win. People can be assholes and win. Anyone can win. But not everyone is the best possible version of themselves.<br><br>Harsh, yes. The flip side is that it means being honestly able to be proud and strong during the occasional defeat as well. When you take ego out of the equation, other people’s opinions and external markers won’t matter as much. That’s more difficult, but ultimately a formula for resilience.
+
+Adam Smith advised we keep the outlook of the "indifferent spectator", especially early in our endeavour, when we'd rather enjoy the thunderous applause the society would give us. 
+
+When you start thinking how "no one will know", the moral gray area ego loves so much (think of CEOs, politicians and bankers with their _not technically illegal_ behavior).  Holding your ego against a standard makes it less likely you'd do any wrongdoing. 
+
+> Because it’s not about what you can get away with, it’s about what you should or shouldn’t do.
+
+When you keep your eyes on long-term, you're not swayed away by the spotlights, or deterred during the short-term setbacks. To keep improving, we need to smash our ego with continually higher standards. 
+
 ### Always Love
+
+> And why should we feel anger at the world? As if the world would notice! <br>—EURIPIDES
+
+Hate and anger come from ego, and ironically, what we fear and hate - we strenghthen that way. Trying to destroy something out of ego, often ensures it becomes more permanent.
+
+> Thus, the paradox of hate and bitterness. It accomplishes almost exactly the opposite of what we hope it does. In the Internet age, we call this the Streisand effect (named after a similar attempt by the singer and actress Barbra Streisand, who tried to legally remove a photo of her home from the Web. Her actions backfired and far more people saw it than would have had she left the issue alone.) Attempting to destroy something out of hate or ego often ensures that it will be preserved and disseminated forever.
+
+And to continue the paradox - the right response is love. Even to things that annoy us. And as we become more successful, there will be more things we care about. More ways others _could disrespect us_. And if we're not careful we can get lost defending what's precious to our ego. How many countless lives and beauty was lost out of reasons who hardly anyone remembers by angry men and aggrieved women. Out of slight. Out of offence. Out of ego. 
+
+> You know what is a better response to an attack or a slight or something you don't like? Love. That's right, _love_. For the neighbor who won't turn down the music. For the parent who let you down. For the bureaucrat who lost your paperwork. For the group that rejects you. For the critic who attacks you. The former partner who stole your business idea. The bitch or bastard who cheated on you. Love.
+
+Now, loving might be too difficult, but at least try to laugh, shake it off and move on. You don't want to become just another self-absorbed person too sensitive to any criticism or rumor. Don't turn minor inconveniances into massive sores. 
+
+Just like the path which Richard Nixon took first forward and then downward - he did more damage to himself than anyone else could've done. Not even the "leader of free world" is immune to hate, bitterness and paranoia. 
+
+It's easier to lash out, to get angry, frustrated and hateful. But love liberates, and hate suffocates. What helped many great leaders is how they looked upon their enemies with pity and empathy. When Frederick Douglass was asked to move to baggage car because of his race and a white supporter apologized to him, the responce from Douglass was:
+
+> They cannot degrade Frederick Douglass. The soul that is within me no man can degrade. I am not the one that is being degraded on account of this treatment, but those who are inflicting it upon me.
+
+What we need to ask ourselves is 
+
+> Are we going to be miserable just because other people are?
+
+Why? The very traits that pissed us off in other people, dishonesty, selfishness, laziness -- they aren't going to work out well for those people in the end anyway. When Orson Welles died, his long-term girlfriend said in his eulogy, referring to the _lifetime_ of obstructions and insults he received in a particularly ruthless industry - *"I promise it didn't make him bitter"*. The obsession with the past, how _they did you wrong_ is ego embodied. Everyone else moved on but you haven't.
+
+Hate also puts blame on someone else, so it's easy to do in the times of adversity. Fear and hate rob us of our strength, tarnishes our reputation and takes the best away from us. And love is right here, all the time - egoless, free, positive, open, peaceful, vulnerable, understanding, joyful and productive.
+
+> Remember Kirk Hammet, who suddenly became the guitarist in Metallica? The man they kicked out to make room for him, Dave Mustaine, went on to form another band, Megadeth. Even amidst his own unbelievable success, he was eaten up with his rage and hartred over the way he'd been treated those many years before. It drove him to addiction and could have killed him. It was eighteen years until he was able to even begin to process it, and said it still felt like yesterday that he'd been hurt and rejected. When you hear him tell it, as he did once on camera to his former bandmates, it sounds like he ended up living under a bridge. In reality, the man sold millions of records, produced great music, and lived the life of the rock star. 
 
 ### For Everything That Comes Next, Ego Is The Enemy
 

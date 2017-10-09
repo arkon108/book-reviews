@@ -581,8 +581,42 @@ Hate also puts blame on someone else, so it's easy to do in the times of adversi
 
 ### For Everything That Comes Next, Ego Is The Enemy
 
+> I don't like work--no man does-- but I like what is in the work--the chance to find yourself.<br>~JOSEPH CONRAD
+
+ Too often, while working, we will find ourselves alone and struggling. It's just the nature of things. The difficult, challenging work is often lonesome and hard. Many who came before as had faced the same obstacles and many had made it through - so can you.
+
+ > See much, study much, suffer much, that is the path to wisdom<br>~ celtic saying
+
+
+The aspirations lead to success and adversity. Which lead to new aspirations, more success and other adversities, branching and looping back endlessly. It's great when we're up, and it sucks when we're down. It's only natural.
+
+The only certain thing in this constant change is that ego will be the enemy of anything coming up along the way. Ego is the most important thing to avoid. It makes all the steps hard, and it can make _failure permanent_.
+
+The mantra which can save is might be _simple_, but doing what it invocates, isn't _easy_.
+
+> Not to aspire or seek out of ego.<br>To have success without ego.<br>To push through failure with strength, not ego.
+
+
+
 Epilogue
 --------
+
+It's not easy to go head-to-head with one's ego. It might be even harder for some people to acknowledge that it's there and running the show. Most of us can't handle the uncomfortable self-examination. 
+
+The work, the training, the self-improvement needs to be constant. It's like sweeping the floor. We sweep daily, and dust daily settles back. We keep dusting, and it keeps settling. Every day we must sweep.
+
+While working on the book, Holiday admits to have been struggling with several drafts and much discouragement. However, he came up with a pretty amusing solution:
+
+> At some point during the process, I came up with a therapeutic device. After each draft, I would tear up the pages and feed the paper to a work compost I keep in my garage. A few months later, those painful pages were irt that nourished my yard, which I could walk with bare feet. It was a real and tangible connection to that larger immensity. I liked to remind myself that the same process is going to happen to me when I'm done, when I die and nature tears me up.
+
+He realized how every ambitious person shares the feeling we need to do great things and if we don't, we are worthless failures and the world is against us. So much pressure will eventually break something.
+
+> Working to refine our habitual thoughts, working to clamp down on destructive impulses, these are not simply the moral requirements of any decent person. They will make us more successful; they will help us navigate the treacherous waters that ambition will require us to travel. And they are also their own reward.
+
+The potential and motivation we feel are healthy and worthy aims. It is the ego which corrupts them. It is the ego which lies to us and distorts the truth. Any fool can learn from experience, but why learn from our own? There are plenty of sad examples out there to learn from.
+
+> Every day for the rest of your life you will find yourself at one of three phases: aspiration, success, failure. You will battle the ego in each of them. You will make mistakes in each of them.<br><br>You must sweep the floor every minute of every day. And then sweep again.
+
 
 
 Conclusion

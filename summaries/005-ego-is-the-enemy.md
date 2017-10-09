@@ -7,39 +7,36 @@ Published 2016, [ISBN 9780698192157](https://encrypted.google.com/search?q=isbn+
 
 Author
 ------------
-Born on June 16, 1987, [Ryan Holiday](https://en.wikipedia.org/wiki/Ryan_Holiday) is a media strategist who dropped out of college at age of 19, he advised best-selling authors and multi-platinum musicians. He worked as a Director of Marketing at American Apparel, and is currently a media columnist and editor-at-large at New York Observer. He also worked with Tucker Max and Robert Greene (author of "48 Laws of Power")
+Born Jun 16, 1987, [Ryan Holiday](https://en.wikipedia.org/wiki/Ryan_Holiday) is a media strategist who dropped out of college at age of 19, he advised best-selling authors and multi-platinum musicians. He worked as a Director of Marketing at American Apparel, and is currently a media columnist and editor-at-large at New York Observer. He also worked with Tucker Max and Robert Greene (author of "48 Laws of Power").
 
 
 Introduction
 ============
-Following several quotes taken from the book I encountered on social media, during the time I was working on exploring what constitutes a person's ego, I went to purchase the book after reading several reviews praising it. The author seemed as a person who could speak from personal experience, getting to success early in life inflating his own ego, and then crushing it as he watched people he admired succumbing to poisons of egotism<sup>[1](#footnote1)<a name="f1"></a></sup>
+Just around the time I was researching what constitutes a person's ego and how to work with it, I saw several thoughtful quotes taken from this book. So I went to purchase the book after reading several reviews and finding them positive. The author seemed as a person who could speak from personal experience, getting through a wild success early in life. This fast success overly inflated their ego, and then crushed it after he's see the people he had admired succumb to the poisons of egotism<sup>[1](#footnote1)<a name="f1"></a></sup>
 
 > With success comes the temptation to <b>tell oneself a story</b>, to round off the edges, to cut out your lucky breaks and add a certain mythology to it all.<br><br> You know, that arcing narrative of Herculean struggle for greatness against all odds: sleeping on the floor, being disowned by my parents, suffering for my ambition. It’s a type of storytelling in which eventually your talent becomes your identity and your accomplishments become your worth. <br><br> But a story like this is never honest or helpful.
 
-The success often gets to people's heads and they get trapped by their own thoughts, starting to believe they themselves and their work is more important than anything or anyone else. I didn't want that happening to me, and I already felt it has started. 
+The success often gets to people's heads and they get trapped by their own thoughts. Starting to believe they themselves and their work is more important than anything or anyone else is the first sign that something's wrong. I didn't want that happening to me, As I've recognized that first red flag.
 
-And I already noticed how successful people tend to release low quality material (music, movies, books) once they start believing they are as great, talented and amazing as everyone is telling them, if not more than that. They get disconnected from that source and inspiration that drove them to success before they believed in the false self the success and admiration created for them. 
+And I had already noticed for quite some time, how successful people tend to release lower quality material (music, movies, books) once they start believing they are as great, talented and amazing as everyone is telling them, if not more than that! They seem to get disconnected from that very source of inspiration which drove them to their original success. It was when they believed in their work, not when they believed in The Artist that media created for them, the false self that flattery made them believe they became. 
 
-The book is divided into three parts - [Aspire](#aspire), [Success](#success) and [Failure](#failure) each of which has essay-like chapters (not numbered). 
+The book is divided into three parts main - [Aspire](#aspire), [Success](#success) and [Failure](#failure) each of which has essay-like chapters (not numbered). The three-part structure of the book comes from the observation that we are always in one of three stages - aspiring to something, succeeding in it or failing. The goal is to help us to be
 
-
-The organization of the book comes from the observation that we are always in one of three stages - aspiring to something, succeeding in it or failing. The goal is to help us to be
-
-* Humble in our aspirations
-* Gracious in our success
-* Resilient in our failures
+1. Humble in our aspirations
+2. Gracious in our success
+3. Resilient in our failures
 
 Summary
 =======
 
-The definition of ego in the book is not in the Freudian sense - it's the over-inflated sense of our own importance, arrogance and self-centered ambition.
+The definition of the ego in the book is not in the usual, Freudian sense - it's the over-inflated sense of our own importance, arrogance and self-centered ambition.
 
 > It’s that petulant child inside every person, the one that chooses getting his or her way over anything or anyone else. The need to be better than, more than, recognized for, far past any reasonable utility— that’s ego. It’s the sense of superiority and certainty that exceeds the bounds of confidence and talent.
 
-This ego at the same time drives us towards accomplishments and drives us to the ground when we believe it's story. As football coach Bill Walsh said 
+This ego at the same time drives us towards accomplishments and drives us to the ground when we believe the fictional narrative it's telling as. As football coach Bill Walsh said 
 >self-confidence becomes arrogance, assertiveness becomes obstinacy, and self-assurance becomes reckless abandon.
 
-In that sense the ego is the enemy of everything you want to accomplish - mastering the craft, getting a real insight, getting along with others, building lasting relationships, loyalty and support. As the voice of ego tells us we're better than we really are, it prevents us from real connection to the world around us. And if we don't see the reality for what it really is, we'll warp it, we'll be delusional, and likely blame others for our own failures and problems.
+In that sense the ego is the enemy of everything you want to accomplish - mastering the craft, getting a real insight, getting along with others, building lasting relationships, acquiring loyalty and gathering support. As the voice of ego tells us we're _better_ than we really are, it prevents us from real connection to the world around us. And if we don't see the reality for what it really is, we'll warp it, we'll be delusional, and likely blame others for our own failures and problems.
 
 The performance artist Marina Abramović puts it
 > If you start believing in your own greatness, it is the death of your creativity
@@ -49,12 +46,12 @@ The performance artist Marina Abramović puts it
 Part I - Aspire
 ------
 
-The part starts with a letter from Isocrates to Demonicus, around 374 BC. The letter was written after Demonicus lost his father at a young age, and knowing how ambitious he was Isocrates warned him of dangers of unbounded ambition. He told him to be modest, just and self-controlled, that nobody can stand arrogance and to abhor flatterers as they are deceivers, if trusted, injure those who trust them. He told him to be slow in deliberation but prompt in execution and to constantly train his intelect "for the greatest thing in the smallest compass is a sound mind in a human body".
+The part starts with a letter from Isocrates to Demonicus, around 374 BC. The letter was written after Demonicus lost his father at a young age, and knowing how ambitious he was Isocrates warned him of dangers of unbounded ambition. He told him to be modest, just and self-controlled, that nobody can stand arrogance and to abhor flatterers as they are deceivers. And when you trust flatterers and sweet-talkers, you get hurt. He told him to be slow in deliberation but prompt in execution and to constantly train his intelect "for the greatest thing in the smallest compass is a sound mind in a human body".
 
-Those words made way to Shakespeare who later wrote in Hamlet
+Those words made way to Shakespeare, who later wrote
 > This above all: to thine own self be true, And it must follow, as the night the day, Thou canst not then be false to any man. Farewell. My blessing season this in thee!
 
-With these precepts in mind, we are told a story of William Tecumseh Sherman, possibly the greatest American general and strategic thinker, and most likely the _only person to turn down the presidency of the USA_. His life story shows a person who was slow to accept position and always realistic in strategic thinking. Being humble kept him aware of the realities of the Civil War and enabled him to achieve significant victories. 
+With these precepts in mind, we are told a story of William Tecumseh Sherman, possibly the greatest American general and strategic thinker, and most likely the _only person to turn down the presidency of the USA_. His life story shows a person who was slow to accept positions and always realistic in strategic thinking. Being humble kept him aware of the realities of the Civil War and enabled him to achieve significant victories. 
 
 He advised his friend Grant to be wary of the glittering praise and not to take it seriously. Unfortunately, Grant didn't listen and proceeded to have a terrible political career, dying a bitter man.
 
@@ -85,9 +82,9 @@ We should stop seeking validation and let others slap each other on the back for
 
 ### To Be or To Do?
 
-Here we get introduced to John Boyd, one of the most influential strategists in modern warfare, and the person most people never heard of. Even though he never talked publicly or published anything, his work advanced the aerial combat significantly. The F-15 and F-16 fighter jets were his pet projects. His biggest influence was on numerous pupils he mentored, taught and protected. Is it possible that staying humble made him more influental?
+Here we get introduced to John Boyd, one of the most influential strategists in modern warfare, and the person most people had never have heard of. Even though he has never talked publicly or published anything, his work had advanced the aerial combat significantly. The F-15 and F-16 fighter jets were his _pet projects_. 
 
-He lived the speech he would give to many a young soldier - a insecure and impressionable person every time: 
+His biggest influence was on numerous pupils he had mentored, taught and protected. Is it possible that staying humble had made him _more_ influental? He had lived the speech which he would give to many a young soldier - a insecure and impressionable person every time, when they were starting out: 
 
 > “Tiger, one day you will come to a fork in the road,” Boyd said to him. “And you’re going to have to make a decision about which direction you want to go.”<br><br> Using his hands to illustrate, Boyd marked off these two directions. “If you go that way you can be somebody. You will have to make compromises and you will have to turn your back on your friends. But you will be a member of the club and you will get promoted and you will get good assignments.” Then Boyd paused, to make the alternative clear.<br><br> “Or,” he said, “you can go that way and you can do something— something for your country and for your Air Force and for yourself. If you decide you want to do something, you may not get promoted and you may not get the good assignments and you certainly will not be a favorite of your superiors. But you won’t have to compromise yourself. You will be true to your friends and to yourself. And your work might make a difference. To be somebody or to do something. In life there is often a roll call. That’s when you will have to make a decision.”<br><br> And then Boyd concluded with words that would guide that young man and many of his peers for the rest of their lives. “To be or to do? Which way will you go?”
  
@@ -96,9 +93,9 @@ As we go thourgh life we get distracted by many incentives, positions, recogniti
 
 > Appearances are deceiving. **Having** authority is not the same as **being** an authority. **Having** the right and **being** right are not the same either. Being promoted doesn’t necessarily mean you’re doing good work and it doesn’t mean you are worthy of promotion (they call it failing upward in such bureaucracies). **Impressing people is utterly different from being truly impressive**.
 
-The choice Boyd laid in front of us is the question of _purpose_. **What is your purpose? What are you here to do?** This question helps to decide whether to be or to do - are _you_ more important, or the _work_ you're trying to do?
+The choice which Boyd has laid in front of us is the question of _purpose_. **What is your purpose? What are you here to do?** This question helps to decide whether to be or to do - are _you_ more important, or the _work_ you're trying to do?
 
-If your purpose is something bigger than yourself, if you're trying to accomplish something, everything becomes more easier and more difficult at the same time - easier because it's easier to recognize what you need to do, it's not about recognition. And harder because each opportunity needs to be evaluated by strict guidelines - does it help what you set out to do? Does it allow you to achieve what you started? Are you being selfish or selfless?
+If your purpose is something bigger than yourself, if you're trying to accomplish something, everything becomes more easier and more difficult at the same time - easier because it's easier to recognize what you need *to do*. Easier because it's not about recognition. And harder because each opportunity needs to be evaluated by strict guidelines - does it help *what you set out to do*? Does it allow you to achieve what you started? Are you being selfish or selfless?
 
 ### Become a student
 Through the story of how Dave Mustaine got kicked out of Metallica early on, to be replaced with Kirk Hammett, we find out that even though Hammett was now a part of up-and-coming huge band, he didn't let that go to his head. Instead of coasting of the success of being a great guitarist to be picked, he continued to learn and study. He got a best teacher he could find - Joe Satriani.  Hammett felt he needed to learn what he didn't know, from a person playing a style completely different from his band. Apparently Satriani was a strict and unforgiving teacher too. There were weekly lessons and they had to be learnt, if not, Hammett was wasting everyone's time.
@@ -113,7 +110,7 @@ To really become a master we must be ready to accept there are people who are be
 
 > The mixed martial arts pioneer and multi-title champion Frank Shamrock has a system he trains fighters in that he calls plus, minus, and equal. Each fighter, to become great, he said, needs to have someone better that they can learn from, someone lesser who they can teach, and someone equal that they can challenge themselves against.<br><br> The purpose of Shamrock’s formula is simple: to get real and continuous feedback about what they know and what they don’t know from every angle. It purges out the ego that puffs us up, the fear that makes us doubt ourselves, and any laziness that might make us want to coast.
 
-Epictetus said "It is impossible to learn that which one thinks one already knows" !!! empty your cup!. The student is humble, absorbing like a sponge, listening to feedback and improving himself. There's no room for ego here. The art of taking feedback, especially harsh and unforgiving feedback is a crucial skill in life. We'd rather avoid being criticized, but that's just the ego trying to protect itself. We need to actively seek feedback and criticizm. Especially when everyone is telling us we're doing great. 
+Epictetus said "It is impossible to learn that which one thinks one already knows". So  empty your cup. Become the student. Humble, absorbing like a sponge, listening to feedback and improving himself. There's no room for ego here. The art of taking feedback, especially harsh and unforgiving feedback is a crucial skill in life. We'd rather avoid being criticized, but that's just the ego trying to protect itself. We need to actively seek feedback and criticizm. Especially when everyone is telling us we're doing great. 
 
 Ego also doesn't allow for incubation, for long periods of hard work in obscurity, it demands recognition and praise. Ego thinks patience is for losers, assumes we're good enough to put our talents out in the world. It blocks us from improving by telling us we don't need to improve.
 
@@ -127,15 +124,15 @@ The passion might be the very thing *preventing* you from achieving what you set
 
 > To be clear, I’m not talking about caring. I’m talking about passion of a different sort— unbridled enthusiasm, our willingness to pounce on what’s in front of us with the full measure of our zeal, the “bundle of energy” that our teachers and gurus have assured us is our most important asset. It is that burning, unquenchable desire to start or to achieve some vague, ambitious, and distant goal. This seemingly innocuous motivation is so far from the right track it hurts.
 
-We get inspired by the passion of the greats, but we don't see the failures produced by the same force. We never hear of the countless inventors and entrepreneurs who sunk their ships before leaving a mark. They had passion but lacked deliberation and methological determination. 
+We get inspired by the passion of the greats, but we don't see the failures produced by the same force. We never hear of the countless inventors and entrepreneurs who had sunk their ships before ever leaving a mark. They had passion but lacked _deliberation_ and _methological determination_. 
 
 > Passion typically masks a weakness. Its breathlessness and impetuousness and franticness are poor substitutes for discipline, for mastery, for strength and purpose and perseverance. You need to be able to spot this in others and in yourself, because while the origins of passion may be earnest and good, its effects are comical and then monstrous.
 
-Passion can be seen in those who can explain in great detail what they'll become, and even describe the burden and worries their achievements will bring. But they can't show you any progress. 
+Passion can be seen in those who can explain in great detail what they'll become, and even describe the _burden and worries_ their achievements will some day bring! But they can't show you any progress to speak of.
 
 > What humans require in our ascent is purpose and realism. Purpose, you could say, is like passion with boundaries. Realism is detachment and perspective.<br><br>Passion is about. (I am so passionate about ....) Purpose is to and for. (I must do .... I was put here to accomplish .... I am willing to endure ... for the sake of this.) Actually, purpose deemphasizes the I. Purpose is about pursuing something outside yourself as opposed to pleasuring yourself.
 
-Purposeful people operate on a different level. They hire professionals and use them, they ask questions, they plan for contingencies. It's less exciting to have a step-by-step approach instead of manifestos and bold proclamations, it's less glamorous and bold. But it will bring us closer to our goal because it works. Passion is form over function, purpose is function, function, function. 
+Purposeful people operate on a different level. They hire professionals and use them, they ask questions, they plan for contingencies. It's less exciting to have a step-by-step approach instead of manifestos and bold proclamations, it's less glamorous and bold. But it will bring us closer to our goal because it works. Passion is form over function, purpose is *function, function, function*. 
 
 > The critical work that you want to do will require your deliberation and consideration. Not passion. Not naïveté.
 <br><br>It’d be far better if you were intimidated by what lies ahead— humbled by its magnitude and determined to see it through regardless.<br><br> Leave passion for the amateurs. Make it about what you feel you must do and say, not what you care about and wish to be.
@@ -146,7 +143,7 @@ Being in an entry level position, a junior, an intern often produces impotent ra
 
 > We see it in recent lawsuits in which interns sue their employers for pay. We see kids more willing to live at home with their parents than to submit to something they’re “overqualified” to work for. We see it in an inability to meet anyone else on their terms, an unwillingness to take a step back in order to potentially take several steps forward. **I will not let them get one over on me. I’d rather we both have nothing instead.**
 
-In reality, the apprentice model worked well for centuries, many great people navigated this system successfully. When someone gets a new job or joins a new organization, they are advised to make others look good. To keep their head down and serve the boss. It's hard to hear for young, ambitious person with a college degree. _Isn't getting the degree precisely what was supposed to spare them from this indignation?_
+In reality, the apprentice model had been working fantastic for _centuries_. Most of the great people navigated this system successfully. Leonardo da Vinci, Isaac Newton, to mention just a couple. Today, when someone gets a new job or joins a new organization, they are advised to make others look good. To keep their head down and serve the boss. It's hard to hear for young, ambitious person with a college degree. _Isn't getting the degree precisely what was supposed to spare them from this indignation?_
 
 > Let’s flip it around so it doesn’t seem so demeaning: It’s not about kissing ass. It’s not about making someone look good. It’s about providing the support so that others can be good. The better wording for the advice is this: Find canvases for other people to paint on. ... Clear the path for the people above you and you will eventually create a path for yourself.
 
@@ -154,7 +151,7 @@ When you are just starting out, few fundamental realities are certain
 
 1. You’re not nearly as good or as important as you think you are; 
 2. You have an attitude that needs to be readjusted; 
-3. Most of what you think you know or most of what you learned in books or in school is out of date or wrong.
+3. Most of what you think you know or most of what you learned in books or in school is out of date or wrong
 
 The canvas strategy is helping yourself by helping others. It's easier to be bitter than to let others take credit for your work. 
 

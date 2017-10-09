@@ -12,7 +12,7 @@ Born Jun 16, 1987, [Ryan Holiday](https://en.wikipedia.org/wiki/Ryan_Holiday) is
 
 Introduction
 ============
-Just around the time I was researching what constitutes a person's ego and how to work with it, I saw several thoughtful quotes taken from this book. So I went to purchase the book after reading several reviews and finding them positive. The author seemed as a person who could speak from personal experience, getting through a wild success early in life. This fast success overly inflated their ego, and then crushed it after he's see the people he had admired succumb to the poisons of egotism<sup>[1](#footnote1)<a name="f1"></a></sup>
+Just around the time I was researching what constitutes a person's ego and how to work with it, I saw several thoughtful quotes taken from this book. So I went to purchase the book after reading several reviews and finding them positive. The author seemed as a person who could speak from personal experience, getting through a wild success early in life. This fast success overly inflated their ego, and then crushed it after he has seen the very same people he came to admire, succumb to the poisons of egotism<sup>[1](#footnote1)<a name="f1"></a></sup>
 
 > With success comes the temptation to <b>tell oneself a story</b>, to round off the edges, to cut out your lucky breaks and add a certain mythology to it all.<br><br> You know, that arcing narrative of Herculean struggle for greatness against all odds: sleeping on the floor, being disowned by my parents, suffering for my ambition. It’s a type of storytelling in which eventually your talent becomes your identity and your accomplishments become your worth. <br><br> But a story like this is never honest or helpful.
 

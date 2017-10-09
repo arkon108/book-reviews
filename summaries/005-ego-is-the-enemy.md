@@ -20,7 +20,7 @@ The success often gets to people's heads and they get trapped by their own thoug
 
 And I had already noticed for quite some time, how successful people tend to release lower quality material (music, movies, books) once they start believing they are as great, talented and amazing as everyone is telling them, if not more than that! They seem to get disconnected from that very source of inspiration which drove them to their original success. It was when they believed in their work, not when they believed in The Artist that media created for them, the false self that flattery made them believe they became. 
 
-The book is divided into three parts main - [Aspire](#aspire), [Success](#success) and [Failure](#failure) each of which has essay-like chapters (not numbered). The three-part structure of the book comes from the observation that we are always in one of three stages - aspiring to something, succeeding in it or failing. The goal is to help us to be
+The book is divided into three parts main - [Aspire](#part-i---aspire), [Success](#part-ii---success) and [Failure](#part-iii---failure) each of which has essay-like chapters (not numbered). The three-part structure of the book comes from the observation that we are always in one of three stages - aspiring to something, succeeding in it or failing. The goal is to help us to be
 
 1. Humble in our aspirations
 2. Gracious in our success

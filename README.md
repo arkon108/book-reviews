@@ -10,11 +10,13 @@ A collection of the book reviews/summaries
 To Read
 ------
 ###Programming
+* Seriously Good Software
+* Distributed Systems with Node.js
 * Code Complete
 * Javascript Application Design
 * Big Data
 * ~The Pragmatic Programmer~
-* Clojure Programming
+* ~Clojure Programming~
 * ~The Joy Of Clojure~
 * Clojure For Machine Learning
 

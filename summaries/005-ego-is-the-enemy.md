@@ -37,7 +37,7 @@ TOC
     * [Meditate On The Immensity](#meditate-on-the-immensity)
     * [Maintain Your Sobriety](#maintain-your-sobriety)
     * [For What Often Comes Next, Ego Is The Enemy](#for-what-often-comes-next-ego-is-the-enemy)
-  *  [Part III - Failure](#part-iii---failure)
+*  [Part III - Failure](#part-iii---failure)
     * [Alive Time Or Dead Time?](#alive-time-or-dead-time)
     * [The Effort Is Enough](#the-effort-is-enough)
     * [Fight Club Moments](#fight-club-moments)
